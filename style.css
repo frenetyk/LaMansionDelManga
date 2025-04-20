@@ -120,7 +120,7 @@ h1 {
 .banner-container {
     width: 100%;
     overflow: hidden;  /* Recorta excedentes */
-    max-height: 300px; /* Altura máxima (ajusta según necesidad) */
+    max-height: 100%; /* Altura máxima (ajusta según necesidad) */
     display: flex;
     justify-content: center; /* Centra horizontalmente */
     align-items: center;     /* Centra verticalmente */
@@ -128,7 +128,7 @@ h1 {
 
 .banner-img {
     width: 100%;
-    height: auto;
+    height: 100%;
     object-fit: cover;  /* Cubre el espacio sin deformar */
 }
 
@@ -143,3 +143,4 @@ h1 {
         object-position: center center; /* Fuerza el centrado */
     }
 }
+
