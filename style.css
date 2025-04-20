@@ -116,3 +116,30 @@ h1 {
     background: var(--primary);
     transform: translateY(-2px);
 }
+
+.banner-container {
+    width: 100%;
+    overflow: hidden;  /* Recorta excedentes */
+    max-height: 300px; /* Altura máxima (ajusta según necesidad) */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;     /* Centra verticalmente */
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;  /* Cubre el espacio sin deformar */
+}
+
+/* Ajustes específicos para móviles */
+@media (max-width: 768px) {
+    .banner-container {
+        max-height: 200px; /* Reducir altura en móvil */
+    }
+    
+    .banner-img {
+        min-height: 150px; /* Evita que se vea demasiado pequeño */
+        object-position: center center; /* Fuerza el centrado */
+    }
+}
