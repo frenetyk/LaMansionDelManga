@@ -46,6 +46,7 @@ input, select {
     transition: all 0.3s ease;
     text-align: center;
     border: 2px solid var(--primary); /* Borde colorido */
+    
 }
 
 .manga-card:hover {
@@ -78,6 +79,7 @@ input, select {
     height: 260px;        /* Altura fija */
     object-fit: contain;  /* Muestra toda la imagen sin recortar */
     background: #ffffff;  /* Fondo para relleno (opcional) */
+    
 }
 
 h1 {
@@ -119,28 +121,29 @@ h1 {
 
 .banner-container {
     width: 100%;
-    overflow: hidden;  /* Recorta excedentes */
-    max-height: 100%; /* Altura máxima (ajusta según necesidad) */
-    display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center;     /* Centra verticalmente */
+    height: 0;
+    padding-top: 57.14%; /* Relación 16:9 */
+    position: relative;
+    overflow: hidden;
+    background-color: #f5f5f5; /* Fondo negro para bordes negros si hay letterboxing */
 }
 
 .banner-img {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;  /* Cubre el espacio sin deformar */
+    object-fit: cover; /* Cubre el contenedor sin deformar */
+    object-position: center center; /* Enfoca el centro */
 }
 
-/* Ajustes específicos para móviles */
+/* Para móvil: ajustar a relación 1:1 o 4:3 */
 @media (max-width: 768px) {
     .banner-container {
-        max-height: 200px; /* Reducir altura en móvil */
+        padding-top: 100%; /* Cuadrado */
     }
-    
     .banner-img {
-        min-height: 150px; /* Evita que se vea demasiado pequeño */
-        object-position: center center; /* Fuerza el centrado */
+        object-fit: contain; /* Muestra toda la imagen */
     }
 }
-

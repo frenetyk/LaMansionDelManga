@@ -1,5 +1,65 @@
 [
     {
+        "titulo": "Karekano, Las cosas de él y de ella",
+        "demografia": "Shojo",
+        "guionista": "Masami Tsuda",
+        "dibujante": "Masami Tsuda",
+        "volumenes": "21 (cerrada)",
+        "editorial": "Glenat",
+        "enlace": "https://1024terabox.com/s/1uI0o8nXeaSpj9mIkBL6xNA",
+        "imagen": "imagenes/karekano.jpg"
+    },
+    {
+        "titulo": "Hajime no Ippo",
+        "demografia": "Spokon",
+        "guionista": "Joji Morikawa",
+        "dibujante": "Joji Morikawa",
+        "volumenes": "9 dobles (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1n55EyW1sHFzfdEXxOtEftA",
+        "imagen": "imagenes/hajimenoippo.jpeg"
+    },
+    {
+        "titulo": "Haikyu!!",
+        "demografia": "Spokon",
+        "guionista": "Haruichi Furudate",
+        "dibujante": "Haruichi Furudate",
+        "volumenes": "45 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1kGeiIhT4DCOvo9W1AhJiqQ",
+        "imagen": "imagenes/haikyu.jpeg"
+    },
+    {
+        "titulo": "Ao Ashi",
+        "demografia": "Spokon",
+        "guionista": "Yûgo Kobayashi",
+        "dibujante": "Yûgo Kobayashi",
+        "volumenes": "40 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1ydMUlQpuSV_6Rg8nowz6PQ",
+        "imagen": "imagenes/aoashi.jpeg"
+    },
+    {
+        "titulo": "The Boxer",
+        "demografia": "Spokon",
+        "guionista": "Jung Ji Hun",
+        "dibujante": "Jung Ji Hun",
+        "volumenes": "10 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1iB3Q-WWcpStxxIrCgL1UVQ",
+        "imagen": "imagenes/theboxer.jpeg"
+    },
+    {
+        "titulo": "Blue Lock",
+        "demografia": "Spokon",
+        "guionista": "Muneyuki Kaneshiro",
+        "dibujante": "Yusuke Nomura",
+        "volumenes": "33 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1RTXOtifM1nBVu_d-6-DqBA",
+        "imagen": "imagenes/bluelock.jpg"
+    },
+    {
         "titulo": "Vinland Saga",
         "demografia": "Seinen",
         "guionista": "Makoto Yukimura",
