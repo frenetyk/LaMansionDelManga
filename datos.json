@@ -1,0 +1,102 @@
+[
+    {
+        "titulo": "Vinland Saga",
+        "demografia": "Seinen",
+        "guionista": "Makoto Yukimura",
+        "dibujante": "Makoto Yukimura",
+        "volumenes": "26 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1ob3FD399SnCSd3SkzCgElQ",
+        "imagen": "imagenes/vinlandsaga.jpeg"
+    },
+    {
+        "titulo": "Touch (Bateadores)",
+        "demografia": "Spokon",
+        "guionista": "Mitsuru Adachi",
+        "dibujante": "Mitsuru Adachi",
+        "volumenes": "11 dobles (cerrada)",
+        "editorial": "Otakuland",
+        "enlace": "https://1024terabox.com/s/1p95ZgFCZBBenQH0vhQrcOA",
+        "imagen": "imagenes/touch.jpg"
+    },
+    {
+        "titulo": "The One Pound Gospel",
+        "demografia": "Seinen",
+        "guionista": "Rumiko Takahashi",
+        "dibujante": "Rumiko Takahashi",
+        "volumenes": "4 (cerrada)",
+        "editorial": "Glenat",
+        "enlace": "https://1024terabox.com/s/1VNeVPoc1Fn18aaGlhtBTFA",
+        "imagen": "imagenes/theonepoundgospel.jpg"
+    },
+    {
+        "titulo": "The Climber",
+        "demografia": "Spokon",
+        "guionista": "Shinichi Sakamoto",
+        "dibujante": "Shinichi Sakamoto",
+        "volumenes": "17 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/17XJiiYhh7_hBDdS0uBhpjQ",
+        "imagen": "imagenes/theclimber.jpg"
+    },
+    {
+        "titulo": "Noritaka, el rey de los líos",
+        "demografia": "Spokon",
+        "guionista": "Hideo Murata",
+        "dibujante": "Takashi Hamori",
+        "volumenes": "18 (cerrada)",
+        "editorial": "Glenat",
+        "enlace": "https://1024terabox.com/s/1iZO1Iaxgdh0M4kIzqVxuoQ",
+        "imagen": "imagenes/noritaka.jpg"
+    },
+    {
+        "titulo": "Kuroko no Basket",
+        "demografia": "Spokon",
+        "guionista": "Tadatoshi Fujimaki",
+        "dibujante": "Tadatoshi Fujimaki",
+        "volumenes": "30 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1eX3lO4zkxSVDwhwZlb1ZRg",
+        "imagen": "imagenes/kurokonobasket.jpg"
+    },
+    {
+        "titulo": "Q&A",
+        "demografia": "Spokon",
+        "guionista": "Mitsuru Adachi",
+        "dibujante": "Mitsuru Adachi",
+        "volumenes": "6 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1KnkII1Q8eMsx9ieRrlpd-w",
+        "imagen": "imagenes/qa.jpg"
+    },
+    {
+        "titulo": "Ping Pong",
+        "demografia": "Spokon",
+        "guionista": "Taiyo Matsumoto",
+        "dibujante": "Taiyo Matsumoto",
+        "volumenes": "5 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/10H107VhPadu8rKeaJLBwDA",
+        "imagen": "imagenes/pingpong.jpg"
+    },
+    {
+        "titulo": "Rainbow, Los siete de la celda 6 bloque 2",
+        "demografia": "Seinen",
+        "guionista": "George Abe",
+        "dibujante": "Masasumi Kakizaki",
+        "volumenes": "22 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1L1KQKWowoySnhJn9xlWPqw",
+        "imagen": "imagenes/rainbowlossiete.jpeg"
+    },
+    {
+        "titulo": "Rurouni Kenshin, La Epopeya del Guerrero Samurai (Edición Maximum)",
+        "demografia": "Shonen",
+        "guionista": "Nobuhiro Watsuki",
+        "dibujante": "Nobuhiro Watsuki",
+        "volumenes": "14 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1Y6DqwrYAQNJ7yC9Lc6A8ZQ",
+        "imagen": "imagenes/rurounikenshinmaximum.jpeg"
+    }
+]
