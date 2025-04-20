@@ -1,5 +1,95 @@
 [
     {
+        "titulo": "Jojo's Bizarre Adventure Parte VIII: JoJolion",
+        "demografia": "Seinen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "27 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1yrwD1zhiPTEq7kuWoI-sOA",
+        "imagen": "imagenes/jojolion.jpg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte VII: Steel Ball Run",
+        "demografia": "Seinen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "16 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1tKaDPQ1qidjBVJUBY4ryRQ",
+        "imagen": "imagenes/steelballrun.jpeg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte VI: Stone Ocean",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "11 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1ekX7K-36n-XIn-DfdWzdeQ",
+        "imagen": "imagenes/stoneocean.jpeg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte V: Vento Aureo",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1ekX7K-36n-XIn-DfdWzdeQ",
+        "imagen": "imagenes/ventoaureo.jpeg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte IV: Diamond is Unbreakable",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1IaUWKifvJMiK-rFkpxekNA",
+        "imagen": "imagenes/diamondisunbreakable.jpg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte III: Stardust Crusaders",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/10_s_ZpSKbzjwoM-v6mPHxw",
+        "imagen": "imagenes/stardustcrusaders.jpg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte II: Battle Tendency",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "4 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1NwFawZrKp_n67jkIPly6tQ",
+        "imagen": "imagenes/battletendency.jpg"
+    },
+    {
+        "titulo": "Jojo's Bizarre Adventure Parte I: Phantom Blood",
+        "demografia": "Shonen",
+        "guionista": "Hirohiko Araki",
+        "dibujante": "Hirohiko Araki",
+        "volumenes": "3 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/17a9s9rWJwMEgxtqGZ18vkw",
+        "imagen": "imagenes/phantomblood.jpg"
+    },
+    {
+        "titulo": "Kingdom",
+        "demografia": "Shonen",
+        "guionista": "Yasuhisa Hara",
+        "dibujante": "Yasuhisa Hara",
+        "volumenes": "76 (abierta)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1faa2j5B5QHVITlG44TP_rA",
+        "imagen": "imagenes/kingdom.jpg"
+    },
+    {
         "titulo": "Karekano, Las cosas de él y de ella",
         "demografia": "Shojo",
         "guionista": "Masami Tsuda",
