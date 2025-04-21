@@ -1,36 +1,94 @@
 document.addEventListener('DOMContentLoaded', async () => {
-    // Cargar datos desde el JSON (ajusta la ruta si es necesario)
-    const response = await fetch('datos.json');
-    
-    if (!response.ok) {
-        console.error("Error al cargar el JSON:", response.status);
-        return;
-    }
-    const mangas = await response.json();
-    console.log("Datos cargados:", mangas); // Verifica la estructura
-    
-    // Elementos del DOM
+    // ===== 1. ELEMENTOS DEL DOM ===== //
+    const loadingElement = document.getElementById('loading');
+    const mangasContainer = document.getElementById('mangasContainer');
     const searchInput = document.getElementById('searchInput');
     const demografiaFilter = document.getElementById('demografiaFilter');
     const editorialFilter = document.getElementById('editorialFilter');
-    const mangasContainer = document.getElementById('mangasContainer');
+    const estadoFilter = document.getElementById('estadoFilter'); // Si lo añadiste
+    const sortButton = document.getElementById('sortButton');
 
-    // Generar opciones únicas para filtros
-    const demografias = [...new Set(mangas.map(m => m.demografia))];
-    const editoriales = [...new Set(mangas.map(m => m.editorial))];
+    // ===== 2. VARIABLES GLOBALES ===== //
+    let currentPage = 1;
+    const itemsPerPage = 20;
+    let currentMangas = [];
+    let isSorted = false;
+    let allMangas = []; // Para almacenar los datos originales
 
-    demografias.forEach(d => {
-        demografiaFilter.innerHTML += `<option value="${d}">${d}</option>`;
-    });
-
-    editoriales.forEach(e => {
-        editorialFilter.innerHTML += `<option value="${e}">${e}</option>`;
-    });
-
-    // Función para renderizar mangas filtrados
-    function renderMangas(filteredMangas) {
+    // ===== 3. CARGAR DATOS CON LOADING STATE ===== //
+    try {
+        loadingElement.style.display = 'block';
         mangasContainer.innerHTML = '';
-        filteredMangas.forEach(manga => {
+
+        const response = await fetch('datos.json');
+        if (!response.ok) throw new Error('Error al cargar el JSON');
+        
+        allMangas = await response.json();
+        currentMangas = [...allMangas]; // Copia para trabajar
+
+        // Generar opciones de filtros
+        const demografias = [...new Set(allMangas.map(m => m.demografia))];
+        const editoriales = [...new Set(allMangas.map(m => m.editorial))];
+        
+        demografias.forEach(d => {
+            demografiaFilter.innerHTML += `<option value="${d}">${d}</option>`;
+        });
+
+        editoriales.forEach(e => {
+            editorialFilter.innerHTML += `<option value="${e}">${e}</option>`;
+        });
+
+        // Renderizar inicial
+        renderMangas();
+
+    } catch (error) {
+        console.error("Error:", error);
+        mangasContainer.innerHTML = `
+            <p class="error-message">⚠️ Error al cargar los mangas: ${error.message}</p>
+        `;
+    } finally {
+        loadingElement.style.display = 'none';
+    }
+
+    // ===== 4. FUNCIONES PRINCIPALES ===== //
+    function filterMangas() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const demografia = demografiaFilter.value;
+        const editorial = editorialFilter.value;
+        const estado = estadoFilter ? estadoFilter.value : '';
+
+        currentMangas = allMangas.filter(manga => {
+            const matchesSearch = 
+                manga.titulo.toLowerCase().includes(searchTerm) ||
+                manga.guionista.toLowerCase().includes(searchTerm) || 
+                manga.dibujante.toLowerCase().includes(searchTerm);
+            
+            const matchesDemo = demografia ? manga.demografia === demografia : true;
+            const matchesEditorial = editorial ? manga.editorial === editorial : true;
+            const matchesEstado = estado ? 
+                (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('cerrada')) : 
+                true;
+
+            return matchesSearch && matchesDemo && matchesEditorial && matchesEstado;
+        });
+
+        currentPage = 1;
+        renderMangas();
+    }
+
+    function renderMangas() {
+        mangasContainer.innerHTML = '';
+        
+        const startIndex = (currentPage - 1) * itemsPerPage;
+        const paginatedMangas = currentMangas.slice(startIndex, startIndex + itemsPerPage);
+        
+        if (paginatedMangas.length === 0) {
+            mangasContainer.innerHTML = '<p class="no-results">No se encontraron mangas</p>';
+            document.getElementById('pagination').innerHTML = '';
+            return;
+        }
+        
+        paginatedMangas.forEach(manga => {
             mangasContainer.innerHTML += `
                 <div class="manga-card">
                     <img src="${manga.imagen}" alt="${manga.titulo}" class="manga-image">
@@ -38,69 +96,76 @@ document.addEventListener('DOMContentLoaded', async () => {
                     <p><strong>Guionista:</strong> ${manga.guionista}</p>
                     <p><strong>Dibujante:</strong> ${manga.dibujante}</p>
                     <p><strong>Volúmenes:</strong> ${manga.volumenes}</p>
-                    <p><strong>Demografía:</strong> ${manga.demografia}</p>
                     <p><strong>Editorial:</strong> ${manga.editorial}</p>
-                    <!-- Enlace como botón -->
+                    <!-- Resto de tus campos -->
                     <a href="${manga.enlace}" target="_blank" class="enlace-btn">Descargar</a>
                 </div>
             `;
         });
+        
+        renderPagination();
     }
 
-    // Función para filtrar
-    function filterMangas() {
-        const searchTerm = searchInput.value.toLowerCase();
-        const demografia = demografiaFilter.value;
-        const editorial = editorialFilter.value;
-    
-        const filtered = mangas.filter(manga => {
-            // Busca en título, guionista Y dibujante (en minúsculas para evitar case-sensitive)
-            const matchesSearch = 
-                manga.titulo.toLowerCase().includes(searchTerm) ||
-                manga.guionista.toLowerCase().includes(searchTerm) || 
-                manga.dibujante.toLowerCase().includes(searchTerm);
-            
-            // Filtros por demografía y editorial
-            const matchesDemo = demografia ? manga.demografia === demografia : true;
-            const matchesEditorial = editorial ? manga.editorial === editorial : true;
-    
-            return matchesSearch && matchesDemo && matchesEditorial;
-        });
-    
-        renderMangas(filtered);
+    function renderPagination() {
+        const totalPages = Math.ceil(currentMangas.length / itemsPerPage);
+        const pagination = document.getElementById('pagination');
+        pagination.innerHTML = '';
+        
+        if (totalPages <= 1) return;
+        
+        // Botón Anterior
+        if (currentPage > 1) {
+            const prevBtn = document.createElement('button');
+            prevBtn.textContent = '← Anterior';
+            prevBtn.addEventListener('click', () => {
+                currentPage--;
+                renderMangas();
+            });
+            pagination.appendChild(prevBtn);
+        }
+        
+        // Botones de página
+        for (let i = 1; i <= totalPages; i++) {
+            const pageBtn = document.createElement('button');
+            pageBtn.textContent = i;
+            if (i === currentPage) {
+                pageBtn.classList.add('active');
+                pageBtn.disabled = true;
+            }
+            pageBtn.addEventListener('click', () => {
+                currentPage = i;
+                renderMangas();
+            });
+            pagination.appendChild(pageBtn);
+        }
+        
+        // Botón Siguiente
+        if (currentPage < totalPages) {
+            const nextBtn = document.createElement('button');
+            nextBtn.textContent = 'Siguiente →';
+            nextBtn.addEventListener('click', () => {
+                currentPage++;
+                renderMangas();
+            });
+            pagination.appendChild(nextBtn);
+        }
     }
-    
-    //aqui va ORDENAR A-Z
-    // Variables globales
-let isSorted = false;
 
-// Función para ordenar mangas A-Z o Z-A
-function sortMangas() {
-    const mangasContainer = document.getElementById('mangasContainer');
-    const mangasArray = Array.from(mangasContainer.children);
-    
-    mangasArray.sort((a, b) => {
-        const titleA = a.querySelector('h3').textContent.toLowerCase();
-        const titleB = b.querySelector('h3').textContent.toLowerCase();
-        return isSorted ? titleB.localeCompare(titleA) : titleA.localeCompare(titleB);
-    });
-
-    // Limpia y reinserta las tarjetas ordenadas
-    mangasContainer.innerHTML = '';
-    mangasArray.forEach(card => mangasContainer.appendChild(card));
-    
-    isSorted = !isSorted; // Alterna entre A-Z y Z-A
-    document.getElementById('sortButton').textContent = isSorted ? 'Ordenar Z-A' : 'Ordenar A-Z';
-}
-
-// Evento del botón
-document.getElementById('sortButton').addEventListener('click', sortMangas);
-
-    // Event listeners
+    // ===== 5. EVENT LISTENERS ===== //
     searchInput.addEventListener('input', filterMangas);
     demografiaFilter.addEventListener('change', filterMangas);
     editorialFilter.addEventListener('change', filterMangas);
-
-    // Cargar todos los mangas inicialmente
-    renderMangas(mangas);
+    if (estadoFilter) estadoFilter.addEventListener('change', filterMangas);
+    
+    sortButton.addEventListener('click', () => {
+        isSorted = !isSorted;
+        currentMangas.sort((a, b) => {
+            return isSorted ? 
+                b.titulo.localeCompare(a.titulo) : 
+                a.titulo.localeCompare(b.titulo);
+        });
+        sortButton.textContent = isSorted ? 'Ordenar Z-A' : 'Ordenar A-Z';
+        currentPage = 1;
+        renderMangas();
+    });
 });
