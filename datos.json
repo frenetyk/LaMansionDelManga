@@ -1,5 +1,75 @@
 [
     {
+        "titulo": "Hungry Heart",
+        "demografia": "Spokon",
+        "guionista": "Yoichi Takahashi",
+        "dibujante": "Yoichi Takahashi",
+        "volumenes": "06 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1ZpqbfNgscVJKSr6jwp5s4Q",
+        "imagen": "imagenes/hungryheart.jpg"
+    },
+    {
+        "titulo": "Happy!",
+        "demografia": "Seinen",
+        "guionista": "Naoki Urasawa",
+        "dibujante": "Naoki Urasawa",
+        "volumenes": "15 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1J5y3xjBcWoQsejpVNZmk3w",
+        "imagen": "imagenes/happy.jpg"
+    },
+    {
+        "titulo": "Dash Kappei (Chicho Terremoto)",
+        "demografia": "Spokon",
+        "guionista": "Noboru Rukoda",
+        "dibujante": "Noboru Rukoda",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Kimmo Editorial",
+        "enlace": "https://1024terabox.com/s/14J5_DJAnh7mZ-JDryiFcyg",
+        "imagen": "imagenes/dashkappei.jpg"
+    },
+    {
+        "titulo": "Black Box",
+        "demografia": "Spokon",
+        "guionista": "Tsutomu Takahashi",
+        "dibujante": "Tsutomu Takahashi",
+        "volumenes": "02 triples (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/11rtIZtiQKjouu5ju0_m7Ig",
+        "imagen": "imagenes/blackbox.jpeg"
+    },
+    {
+        "titulo": "Attacker You! (Dos fueras de serie)",
+        "demografia": "Spokon",
+        "guionista": "Shizuo Koizumi",
+        "dibujante": "Jun Makimura",
+        "volumenes": "03 (cerrada)",
+        "editorial": "Arechi Manga",
+        "enlace": "https://1024terabox.com/s/1TfvBrpmnLx3wS6jm2B9tOw",
+        "imagen": "imagenes/attackeryou.jpg"
+    },
+    {
+        "titulo": "Agente de fútbol",
+        "demografia": "Spokon",
+        "guionista": "Tatsuki Nohda",
+        "dibujante": "Tatsuki Nohda",
+        "volumenes": "04 (cerrada)",
+        "editorial": "Hidra Manga",
+        "enlace": "https://1024terabox.com/s/17hLdOyGGITFSoGgORhrwAA",
+        "imagen": "imagenes/agentedefutbol.jpg"
+    },
+    {
+        "titulo": "Gokurakugai",
+        "demografia": "Shonen",
+        "guionista": "Yuto Sano",
+        "dibujante": "Yuto Sano",
+        "volumenes": "01 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/16i4TwKDKYPR2ZQNy8yhEDA",
+        "imagen": "imagenes/gokurakugai.jpg"
+    },
+    {
         "titulo": "Vagabond",
         "demografia": "Seinen",
         "guionista": "Takehiko Inoue",

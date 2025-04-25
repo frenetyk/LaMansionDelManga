@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         const searchTerm = searchInput.value.toLowerCase();
         const demografia = demografiaFilter.value;
         const editorial = editorialFilter.value;
-        const estado = estadoFilter ? estadoFilter.value : '';
-
+        const estado = estadoFilter.value;
+    
         currentMangas = allMangas.filter(manga => {
             const matchesSearch = 
                 manga.titulo.toLowerCase().includes(searchTerm) ||
@@ -68,10 +68,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             const matchesEstado = estado ? 
                 (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('cerrada')) : 
                 true;
-
+    
             return matchesSearch && matchesDemo && matchesEditorial && matchesEstado;
         });
-
+    
         currentPage = 1;
         renderMangas();
     }
@@ -155,6 +155,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     searchInput.addEventListener('input', filterMangas);
     demografiaFilter.addEventListener('change', filterMangas);
     editorialFilter.addEventListener('change', filterMangas);
+    estadoFilter.addEventListener('change', filterMangas);
     if (estadoFilter) estadoFilter.addEventListener('change', filterMangas);
     
     sortButton.addEventListener('click', () => {
