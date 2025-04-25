@@ -95,6 +95,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     <h3>${manga.titulo}</h3>
                     <p><strong>Guionista:</strong> ${manga.guionista}</p>
                     <p><strong>Dibujante:</strong> ${manga.dibujante}</p>
+                    <p><strong>Demografía:</strong> ${manga.demografia}</p>
                     <p><strong>Volúmenes:</strong> ${manga.volumenes}</p>
                     <p><strong>Editorial:</strong> ${manga.editorial}</p>
                     <!-- Resto de tus campos -->
