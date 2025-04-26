@@ -1,10 +1,140 @@
 [
     {
+        "titulo": "Dragon Ball - Ultimate Edition",
+        "demografia": "Shonen",
+        "guionista": "Akira Toriyama",
+        "dibujante": "Akira Toriyama",
+        "volumenes": "34 (completa)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1sx5RKwN7D1nenwwCzlOdzw",
+        "imagen": "imagenes/dragonballultimateedition.jpg"
+    },
+    {
+        "titulo": "Gintama",
+        "demografia": "Shonen",
+        "guionista": "Hideaki Sorachi",
+        "dibujante": "Hideaki Sorachi",
+        "volumenes": "26 triples (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1vO-3s7rVC1EBZixcJQ5V4A",
+        "imagen": "imagenes/gintama.jpg"
+    },
+    {
+        "titulo": "Inuyasha - Kanzenban)",
+        "demografia": "Shonen",
+        "guionista": "Rumiko Takahashi",
+        "dibujante": "Rumiko Takahashi",
+        "volumenes": "30 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1d9bIZOQGBOaZM2D1xuU5VQ",
+        "imagen": "imagenes/inuyashakanzenban.jpg"
+    },
+    {
+        "titulo": "Limit",
+        "demografia": "Shojo",
+        "guionista": "Keiko Suenobu",
+        "dibujante": "Keiko Suenobu",
+        "volumenes": "6 (cerrada)",
+        "editorial": "Arechi Manga",
+        "enlace": "https://1024terabox.com/s/1B-Z-S9mMp-dVVd5NO1REpw",
+        "imagen": "imagenes/limit.jpg"
+    },
+    {
+        "titulo": "Your Lie in April",
+        "demografia": "Shonen",
+        "guionista": "Naoshi Arakawa",
+        "dibujante": "Naoshi Arakawa",
+        "volumenes": "11 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1dqLr6DJHrSXF9_BNKmguBA",
+        "imagen": "imagenes/yourlieinapril.jpg"
+    },
+    {
+        "titulo": "Trigun",
+        "demografia": "Shonen",
+        "guionista": "Yasuhiro Nightow",
+        "dibujante": "Yasuhiro Nightow",
+        "volumenes": "2 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1qCWLG8jMnOoLAcjG3LDRfA",
+        "imagen": "imagenes/trigun.jpg"
+    },
+    {
+        "titulo": "Please Save My Earth",
+        "demografia": "Shojo",
+        "guionista": "Sawi Hiwatari",
+        "dibujante": "Sawi Hiwatari",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1zIdIaaeDJsud5q4Whbbs3Q",
+        "imagen": "imagenes/pleasesavemyearth.jpg"
+    },
+    {
+        "titulo": "Captain Tsubasa",
+        "demografia": "Spokon",
+        "guionista": "Yoichi Takahashi",
+        "dibujante": "Yoichi Takahashi",
+        "volumenes": "37 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1rYYgiCjeCG410YRTAQpNIA",
+        "imagen": "imagenes/captaintsubasa.jpg"
+    },
+    {
+        "titulo": "Saturn Return",
+        "demografia": "Seinen",
+        "guionista": "Akane Torikai",
+        "dibujante": "Akira Hiramoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1x5sgHiVGG602ftnI9ixuUQ",
+        "imagen": "imagenes/saturnreturn.jpg"
+    },
+    {
+        "titulo": "Prison School",
+        "demografia": "Shonen",
+        "guionista": "Akira Hiramoto",
+        "dibujante": "Akira Hiramoto",
+        "volumenes": "28 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/10ZqFGXZuDNFh6lbVavJEoA",
+        "imagen": "imagenes/prisonschool.jpg"
+    },
+    {
+        "titulo": "Origin",
+        "demografia": "Seinen",
+        "guionista": "Boichi",
+        "dibujante": "Boichi",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1ELrHHCKMtiSxxO5RsMx2FQ",
+        "imagen": "imagenes/origin.jpg"
+    },
+    {
+        "titulo": "Ataque a los Titanes - Edición Coleccionista",
+        "demografia": "Shonen",
+        "guionista": "Hajime Isayama",
+        "dibujante": "Hajime Isayama",
+        "volumenes": "12 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1CAeuc-DMTM40a2gnHbQXHw",
+        "imagen": "imagenes/ataquealostitanescoleccionista.jpg"
+    },
+    {
+        "titulo": "Jujutsu Kaisen (Guerra de Hechiceros)",
+        "demografia": "Shonen",
+        "guionista": "Gege Akutami",
+        "dibujante": "Gege Akutami",
+        "volumenes": "30 + 1 número 0 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1IQvPpww60ctzpkEtjUpaeA",
+        "imagen": "imagenes/jujutsukaisen.jpg"
+    },
+    {
         "titulo": "Hungry Heart",
         "demografia": "Spokon",
         "guionista": "Yoichi Takahashi",
         "dibujante": "Yoichi Takahashi",
-        "volumenes": "06 (cerrada)",
+        "volumenes": "6 (cerrada)",
         "editorial": "Ivrea",
         "enlace": "https://1024terabox.com/s/1ZpqbfNgscVJKSr6jwp5s4Q",
         "imagen": "imagenes/hungryheart.jpg"
@@ -34,7 +164,7 @@
         "demografia": "Spokon",
         "guionista": "Tsutomu Takahashi",
         "dibujante": "Tsutomu Takahashi",
-        "volumenes": "02 triples (cerrada)",
+        "volumenes": "2 triples (cerrada)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/11rtIZtiQKjouu5ju0_m7Ig",
         "imagen": "imagenes/blackbox.jpeg"
@@ -44,7 +174,7 @@
         "demografia": "Spokon",
         "guionista": "Shizuo Koizumi",
         "dibujante": "Jun Makimura",
-        "volumenes": "03 (cerrada)",
+        "volumenes": "3 (cerrada)",
         "editorial": "Arechi Manga",
         "enlace": "https://1024terabox.com/s/1TfvBrpmnLx3wS6jm2B9tOw",
         "imagen": "imagenes/attackeryou.jpg"
@@ -54,7 +184,7 @@
         "demografia": "Spokon",
         "guionista": "Tatsuki Nohda",
         "dibujante": "Tatsuki Nohda",
-        "volumenes": "04 (cerrada)",
+        "volumenes": "4 (cerrada)",
         "editorial": "Hidra Manga",
         "enlace": "https://1024terabox.com/s/17hLdOyGGITFSoGgORhrwAA",
         "imagen": "imagenes/agentedefutbol.jpg"
@@ -64,7 +194,7 @@
         "demografia": "Shonen",
         "guionista": "Yuto Sano",
         "dibujante": "Yuto Sano",
-        "volumenes": "01 (abierta)",
+        "volumenes": "1 (abierta)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/16i4TwKDKYPR2ZQNy8yhEDA",
         "imagen": "imagenes/gokurakugai.jpg"
@@ -175,7 +305,7 @@
         "guionista": "Masami Tsuda",
         "dibujante": "Masami Tsuda",
         "volumenes": "21 (cerrada)",
-        "editorial": "Glenat",
+        "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1uI0o8nXeaSpj9mIkBL6xNA",
         "imagen": "imagenes/karekano.jpg"
     },
@@ -255,7 +385,7 @@
         "guionista": "Rumiko Takahashi",
         "dibujante": "Rumiko Takahashi",
         "volumenes": "4 (cerrada)",
-        "editorial": "Glenat",
+        "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1VNeVPoc1Fn18aaGlhtBTFA",
         "imagen": "imagenes/theonepoundgospel.jpg"
     },
@@ -275,7 +405,7 @@
         "guionista": "Hideo Murata",
         "dibujante": "Takashi Hamori",
         "volumenes": "18 (cerrada)",
-        "editorial": "Glenat",
+        "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1iZO1Iaxgdh0M4kIzqVxuoQ",
         "imagen": "imagenes/noritaka.jpg"
     },
