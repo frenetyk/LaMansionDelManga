@@ -1,5 +1,75 @@
 [
     {
+        "titulo": "#DRCL midnight children",
+        "demografia": "Seinen",
+        "guionista": "Shinichi Sakamoto",
+        "dibujante": "Shinichi Sakamoto",
+        "volumenes": "3 (abierta)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1Dt5OWQsidzG1uPaERLFWPg",
+        "imagen": "imagenes/drcl.jpg"
+    },
+    {
+        "titulo": "Doraemon",
+        "demografia": "Kodomo",
+        "guionista": "Fukijo F Fujio",
+        "dibujante": "Fukijo F Fujio",
+        "volumenes": "15 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "",
+        "imagen": "imagenes/doraemon3en1.jpg"
+    },
+    {
+        "titulo": "Dan Da Dan",
+        "demografia": "Shonen",
+        "guionista": "Yukinobu Tatsu",
+        "dibujante": "Yukinobu Tatsu",
+        "volumenes": "19 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1-nA4mJOtoHtkHba4yQvSdA",
+        "imagen": "imagenes/dandadan.jpg"
+    },
+    {
+        "titulo": "Musashi",
+        "demografia": "Shonen",
+        "guionista": "Shotaro Ishinomori",
+        "dibujante": "Shotaro Ishinomori",
+        "volumenes": "1 (completa)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1HqsZo3e-MZDrxP-e795vGg",
+        "imagen": "imagenes/musashi.jpg"
+    },
+    {
+        "titulo": "K",
+        "demografia": "Seinen",
+        "guionista": "Shiro Tosaki",
+        "dibujante": "Jiro Taniguchi",
+        "volumenes": "1 (completa)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1QXlOLPwH6kTRaaXL8tBJbg",
+        "imagen": "imagenes/k.jpg"
+    },
+    {
+        "titulo": "Elegía Roja",
+        "demografia": "Seinen",
+        "guionista": "Seiichi Hayashi",
+        "dibujante": "Seiichi Hayashi",
+        "volumenes": "1 (completa)",
+        "editorial": "Ponent Mon",
+        "enlace": "https://1024terabox.com/s/1ETjtwBswDcCko8MtYESzPg",
+        "imagen": "imagenes/elegiaroja.jpg"
+    },
+    {
+        "titulo": "ECHOES",
+        "demografia": "Shonen",
+        "guionista": "Ayumi",
+        "dibujante": "Ayumi",
+        "volumenes": "1 (completa)",
+        "editorial": "Editorial Kodai",
+        "enlace": "https://1024terabox.com/s/1KDJ2OSGgboqPbghnm82GSQ",
+        "imagen": "imagenes/echoes.jpg"
+    },
+    {
         "titulo": "Dragon Ball - Ultimate Edition",
         "demografia": "Shonen",
         "guionista": "Akira Toriyama",
