@@ -1,5 +1,85 @@
 [
     {
+        "titulo": "I's - Kanzenban",
+        "demografia": "Seinen",
+        "guionista": "Masakazu Katsura",
+        "dibujante": "Masakazu Katsura",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/18lJCd_LQ-o2lrPFp6T8KQg",
+        "imagen": "imagenes/is.jpg"
+    },
+    {
+        "titulo": "Eden",
+        "demografia": "Seinen",
+        "guionista": "Hiroki Endo",
+        "dibujante": "Hiroki Endo",
+        "volumenes": "9 dobles (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1_q27XD-0PKu9CxD6Fd8O4w",
+        "imagen": "imagenes/eden.jpg"
+    },
+    {
+        "titulo": "Inspector Kurokochi",
+        "demografia": "Seinen",
+        "guionista": "Takashi Nagasaki",
+        "dibujante": "Koji Kono",
+        "volumenes": "23 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1T6Ng-OqolYnJ7L3BepPYKg",
+        "imagen": "imagenes/kurokochi.jpg"
+    },
+    {
+        "titulo": "GTO - Great Teacher Onizuka",
+        "demografia": "Shonen",
+        "guionista": "Toru Fujisawa",
+        "dibujante": "Toru Fujisawa",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1zW9nnh53nPmRR5FtD6sfcQ",
+        "imagen": "imagenes/gto.jpg"
+    },
+    {
+        "titulo": "Santuario",
+        "demografia": "Seinen",
+        "guionista": "Buronson",
+        "dibujante": "Ryoichi Ikegami",
+        "volumenes": "6 (cerrada)",
+        "editorial": "Otakuland",
+        "enlace": "https://1024terabox.com/s/1aT4mBY5vsJ_7t-czTZuKXw",
+        "imagen": "imagenes/santuario.jpg"
+    },
+    {
+        "titulo": "Saint Seiya - Final Edition",
+        "demografia": "Shonen",
+        "guionista": "Masami Kurumada",
+        "dibujante": "Masami Kurumada",
+        "volumenes": "9 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1FBwHQVQ3EWnwpDzYJlWzXQ",
+        "imagen": "imagenes/saintseiyafinaledition.jpg"
+    },
+    {
+        "titulo": "Ichi The Killer",
+        "demografia": "Seinen",
+        "guionista": "Hideo Yamamoto",
+        "dibujante": "Hideo Yamamoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1WRs6Ga7bx_2fN-SWa84o0A",
+        "imagen": "imagenes/ichithekiller.jpg"
+    },
+    {
+        "titulo": "Homunculus",
+        "demografia": "Seinen",
+        "guionista": "Hideo Yamamoto",
+        "dibujante": "Hideo Yamamoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1mQNXCKyF_5VFifAfbq3cug",
+        "imagen": "imagenes/homunculus.jpg"
+    },
+    {
         "titulo": "#DRCL midnight children",
         "demografia": "Seinen",
         "guionista": "Shinichi Sakamoto",
