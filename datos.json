@@ -1,5 +1,65 @@
 [
     {
+        "titulo": "Bokko",
+        "demografia": "Seinen",
+        "guionista": "Sentaro Kubota",
+        "dibujante": "Hideki Mori",
+        "volumenes": "11 (cerrada)",
+        "editorial": "Ponent Mon",
+        "enlace": "https://1024terabox.com/s/1HKoUygMnsOYMPqZL3ZVxlQ",
+        "imagen": "imagenes/bokko.jpg"
+    },
+    {
+        "titulo": "Capitán Harlock: DImension Voyage",
+        "demografia": "Seinen",
+        "guionista": "Leiji Matsumoto",
+        "dibujante": "Leiji Matsumoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1I7qDli78OVCVyG_EQ_bZnA",
+        "imagen": "imagenes/dimensionvoyage.jpg"
+    },
+    {
+        "titulo": "Capitán Harlock - Edición Integral",
+        "demografia": "Seinen",
+        "guionista": "Leiji Matsumoto",
+        "dibujante": "Leiji Matsumoto",
+        "volumenes": "2 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1UngNwP7xOPO3YCCteMO9AQ",
+        "imagen": "imagenes/capitanharlock.jpg"
+    },
+    {
+        "titulo": "Golden Kamuy",
+        "demografia": "Seinen",
+        "guionista": "Satoru Noda",
+        "dibujante": "Satoru Noda",
+        "volumenes": "31 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1uhdj0ktT_GJz1aOZyFYS4Q",
+        "imagen": "imagenes/goldenkamuy.jpg"
+    },
+    {
+        "titulo": "La Balada del Viento y los Árboles",
+        "demografia": "Shojo",
+        "guionista": "Keiko Takemiya",
+        "dibujante": "Keiko Takemiya",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1lLGDlLPNOsOVgCqbLqq-GQ",
+        "imagen": "imagenes/labaladadelviento.jpg"
+    },
+    {
+        "titulo": "La Ventana de Orfeo",
+        "demografia": "Shojo",
+        "guionista": "Riyoko Ikeda",
+        "dibujante": "Riyoko Ikeda",
+        "volumenes": "13 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1BA60AG14p_mIQ5SIqkD4dw",
+        "imagen": "imagenes/laventanadeorfeo.jpg"
+    },
+    {
         "titulo": "I's - Kanzenban",
         "demografia": "Seinen",
         "guionista": "Masakazu Katsura",
