@@ -1,5 +1,55 @@
 [
     {
+        "titulo": "Joe del Mañana (Ashita no Joe)",
+        "demografia": "Spokon",
+        "guionista": "Ikki Kajiwara",
+        "dibujante": "Tetsuya Chiba",
+        "volumenes": "5 (abierta)",
+        "editorial": "Arechi Manga",
+        "enlace": "https://1024terabox.com/s/1qyuvXetG8fXaBjnuVUr0uw",
+        "imagen": "imagenes/joedelmañana.jpg"
+    },
+    {
+        "titulo": "Berserk",
+        "demografia": "Seinen",
+        "guionista": "Kentaro Miura",
+        "dibujante": "Kentaro Miura",
+        "volumenes": "42 (abierta)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1p_eXAETvgdZGcp1qOk5dUA",
+        "imagen": "imagenes/berserj.jpg"
+    },
+    {
+        "titulo": "Dragon Quest - The Adventure of Dai",
+        "demografia": "Shonen",
+        "guionista": "Riku Sanjo",
+        "dibujante": "Koji Inada",
+        "volumenes": "5 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1CNKfN9yR3E0KHhJ-fLw49A",
+        "imagen": "imagenes/adventureofdai.jpg"
+    },
+    {
+        "titulo": "Dragon Quest - The Adventure of Dai - The Hero Avan and the Dark Lord of Hellfire",
+        "demografia": "Shonen",
+        "guionista": "Riku Sanjo",
+        "dibujante": "Yusaku Shibata",
+        "volumenes": "2 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1Dahd5lCEAxS1SDGwVclL8w",
+        "imagen": "imagenes/avanhero.jpg"
+    },
+    {
+        "titulo": "Pies Descalzos. Una historia de Hiroshima",
+        "demografia": "Shonen",
+        "guionista": "Keiji Nakazawa",
+        "dibujante": "Keiji Nakazawa",
+        "volumenes": "4 (cerrada)",
+        "editorial": "Debolsillo",
+        "enlace": "https://1024terabox.com/s/1bzgK3zHQ8YXWgKmWLDxnWQ",
+        "imagen": "imagenes/piesdescalzos.jpg"
+    },
+    {
         "titulo": "Bokko",
         "demografia": "Seinen",
         "guionista": "Sentaro Kubota",
@@ -10,7 +60,7 @@
         "imagen": "imagenes/bokko.jpg"
     },
     {
-        "titulo": "Capitán Harlock: DImension Voyage",
+        "titulo": "Capitán Harlock: Dimension Voyage",
         "demografia": "Seinen",
         "guionista": "Leiji Matsumoto",
         "dibujante": "Leiji Matsumoto",
