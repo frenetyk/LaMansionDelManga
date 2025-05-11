@@ -1,5 +1,105 @@
 [
     {
+        "titulo": "Real",
+        "demografia": "Spokon",
+        "guionista": "Takehiko Inoue",
+        "dibujante": "Takehiko Inoue",
+        "volumenes": "15 (abierta)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1Pn477SJ07UJ7SzBkGxktVg",
+        "imagen": "imagenes/real.jpg"
+    },
+    {
+        "titulo": "Re Cervin",
+        "demografia": "Seinen",
+        "guionista": "Kousuke Hamada",
+        "dibujante": "Kousuke Hamada",
+        "volumenes": "4 (abierta)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1kBKUz7dpe6aLju2Rg02p9A",
+        "imagen": "imagenes/recervin.jpg"
+    },
+    {
+        "titulo": "No soy un Ángel",
+        "demografia": "Shojo",
+        "guionista": "Ai Yazawa",
+        "dibujante": "Ai Yazawa",
+        "volumenes": "1 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/17ophjeMAarwsuFKjL1GI4Q",
+        "imagen": "imagenes/nosoyunangel.jpg"
+    },
+    {
+        "titulo": "Mujina into the Deep",
+        "demografia": "Seinen",
+        "guionista": "Inio Asano",
+        "dibujante": "Inio Asano",
+        "volumenes": "1 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1GJ9NlZJIDbrsGgypstAdcw",
+        "imagen": "imagenes/mijunaintothedeep.jpg"
+    },
+    {
+        "titulo": "Kowloon Generic Romance",
+        "demografia": "Seinen",
+        "guionista": "Jun Mayuzuki",
+        "dibujante": "Jun Mayuzuki",
+        "volumenes": "9 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1W6WMtujTTfx_NWc6W62X1w",
+        "imagen": "imagenes/Kowloon.jpg"
+    },
+    {
+        "titulo": "Frieren",
+        "demografia": "Shonen",
+        "guionista": "Kanehiko Yamada",
+        "dibujante": "Tsukasa Abe",
+        "volumenes": "9 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1A4H0gWD1ZVT2JtJy1ljS8Q",
+        "imagen": "imagenes/frieren.jpg"
+    },
+    {
+        "titulo": "Flores de Piedra",
+        "demografia": "Shonen",
+        "guionista": "Hisashi Sakaguchi",
+        "dibujante": "Hisashi Sakaguchi",
+        "volumenes": "3 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/10Lf7pTk9rGuom9yJlJLSZg",
+        "imagen": "imagenes/floresdepiedra.jpg"
+    },
+    {
+        "titulo": "Eyeshield 21",
+        "demografia": "Spokon",
+        "guionista": "Riichiro Inagaki",
+        "dibujante": "Yusuke Murata",
+        "volumenes": "5 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1iB0spJ2_ycYPE2YlPz-ZGQ",
+        "imagen": "imagenes/eyeshield.jpg"
+    },
+    {
+        "titulo": "Baki The Grappler",
+        "demografia": "Shonen",
+        "guionista": "Keisuke Itagaki",
+        "dibujante": "Keisuke Itagaki",
+        "volumenes": "5 (abierta)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1Wfiurs14ilgNQDYCBF6qoQ",
+        "imagen": "imagenes/baki.jpg"
+    },
+    {
+        "titulo": "Lamu. Urusei Yatsura",
+        "demografia": "Shonen",
+        "guionista": "Rumiko Takahashi",
+        "dibujante": "Rumiko Takahashi",
+        "volumenes": "2 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1JgphJd-Aw_dlNmMeSwclYg",
+        "imagen": "imagenes/lamu.jpg"
+    },
+    {
         "titulo": "Joe del Mañana (Ashita no Joe)",
         "demografia": "Spokon",
         "guionista": "Ikki Kajiwara",
