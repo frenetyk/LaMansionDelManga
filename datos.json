@@ -1,5 +1,155 @@
 [
     {
+        "titulo": "Trigun Maximum",
+        "demografia": "Shonen",
+        "guionista": "Yasuhiro Nightow",
+        "dibujante": "Yasuhiro Nightow",
+        "volumenes": "14 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1406074kYTYGpVdwoQqyE7Q",
+        "imagen": "imagenes/trigunmaximum.webp"
+    },
+    {
+        "titulo": "Saint Seiya - Episodio G",
+        "demografia": "Shonen",
+        "guionista": "Masami Kuramada",
+        "dibujante": "Megumu Okada",
+        "volumenes": "20 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1YQEMEniTVeKv37ZnhunNuQ",
+        "imagen": "imagenes/saintseiyaepisodiog.webp"
+    },
+    {
+        "titulo": "Kitaro",
+        "demografia": "Seinen",
+        "guionista": "Shigeru Mizuki",
+        "dibujante": "Shigeru Mizuki",
+        "volumenes": "11 (cerrada)",
+        "editorial": "Astiberri",
+        "enlace": "https://1024terabox.com/s/1CnziB6WvtpBR180qPfoKfQ",
+        "imagen": "imagenes/kitaro.webp"
+    },
+    {
+        "titulo": "Guardianes de la Noche (Kimetsu no Yaiba)",
+        "demografia": "Shonen",
+        "guionista": "Koyoharu Gotouge",
+        "dibujante": "Koyoharu Gotouge",
+        "volumenes": "23 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1mwTC9WSElBdcBF2ls6Pung",
+        "imagen": "imagenes/kimetsu.webp"
+    },
+    {
+        "titulo": "Bleach - Edición Maximum",
+        "demografia": "Shonen",
+        "guionista": "Tite Kubo",
+        "dibujante": "Tite Kubo",
+        "volumenes": "37 dobles (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1qKpW1Iq3I-vZ0lTr_sgoMQ",
+        "imagen": "imagenes/bleachmaximum.webp"
+    },
+    {
+        "titulo": "The Prince of Tennis",
+        "demografia": "Spokon",
+        "guionista": "Takeshi Konomi",
+        "dibujante": "Takeshi Konomi",
+        "volumenes": "42 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1N5AA2trKCpxE67YLldt3VQ",
+        "imagen": "imagenes/theprinceoftennis.webp"
+    },
+    {
+        "titulo": "Samurai Deeper Kyo",
+        "demografia": "Shonen",
+        "guionista": "Akimine Kamijo",
+        "dibujante": "Akimine Kamijo",
+        "volumenes": "38 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1D7VJejhuj9_bD1x7dCka2w",
+        "imagen": "imagenes/samuraideeperkyo.webp"
+    },
+    {
+        "titulo": "Querido hermano...",
+        "demografia": "Shojo",
+        "guionista": "Riyoko Ikeda",
+        "dibujante": "Riyoko Ikeda",
+        "volumenes": "3 (cerrada)",
+        "editorial": "Arechi Manga",
+        "enlace": "https://1024terabox.com/s/1PAvj9cO6pDSysK16ycc-wQ",
+        "imagen": "imagenes/queridohermano.webp"
+    },
+    {
+        "titulo": "Llegó la primavera",
+        "demografia": "Seinen",
+        "guionista": "Kazuo Koike",
+        "dibujante": "Goseki Kojima",
+        "volumenes": "6 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1QaNDe0kQD3mtgMnaYpCZWg",
+        "imagen": "imagenes/llegolaprimavera.webp"
+    },
+    {
+        "titulo": "Inazuma Eleven",
+        "demografia": "Shonen",
+        "guionista": "Tenya Yabuno",
+        "dibujante": "Tenya Yabuno",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1vuoRO3smsjrVdLh7TB-Oaw",
+        "imagen": "imagenes/inazumaeleven.webp"
+    },
+    {
+        "titulo": "Fire Force",
+        "demografia": "Shonen",
+        "guionista": "Atsushi Ohkubo",
+        "dibujante": "Atsushi Ohkubo",
+        "volumenes": "34 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1boz0m6-9eq0oVuKwVSmotw",
+        "imagen": "imagenes/fireforce.webp"
+    },
+    {
+        "titulo": "Farewell My Dear Cramer",
+        "demografia": "Spokon",
+        "guionista": "Naoshi Arakawa",
+        "dibujante": "Naoshi Arakawa",
+        "volumenes": "7 dobles (cerrada)",
+        "editorial": "Distrito Manga",
+        "enlace": "https://1024terabox.com/s/1Hf0hQlN_QuPZABjecDsuOA",
+        "imagen": "imagenes/farewellmydearcramer.webp"
+    },
+    {
+        "titulo": "Crimson Hero",
+        "demografia": "Shojo",
+        "guionista": "Mitsuba Takanashi",
+        "dibujante": "Mitsuba Takanashi",
+        "volumenes": "20 (cerrada)",
+        "editorial": "Glénat",
+        "enlace": "https://1024terabox.com/s/1eeP0gPYAysZ26M16uEL4tg",
+        "imagen": "imagenes/crimsonhero.webp"
+    },
+    {
+        "titulo": "Bullet The Wizard",
+        "demografia": "Seinen",
+        "guionista": "Kenichi Sonoda",
+        "dibujante": "Kenichi Sonoda",
+        "volumenes": "2 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/17bkwBxYT7nTkkiHbptmGyg",
+        "imagen": "imagenes/bulletthewizard.webp"
+    },
+    {
+        "titulo": "Akira - Edición Original",
+        "demografia": "Seinen",
+        "guionista": "Katsuhiro Otomo",
+        "dibujante": "Katsuhiro Otomo",
+        "volumenes": "6 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1BfUDsy3_0wSlfnrf0zTWXA",
+        "imagen": "imagenes/akira.webp"
+    },
+    {
         "titulo": "Real",
         "demografia": "Spokon",
         "guionista": "Takehiko Inoue",
@@ -37,7 +187,7 @@
         "volumenes": "1 (abierta)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1GJ9NlZJIDbrsGgypstAdcw",
-        "imagen": "imagenes/mijunaintothedeep.jpg"
+        "imagen": "imagenes/mijunaintothedeep.webp"
     },
     {
         "titulo": "Kowloon Generic Romance",
@@ -47,7 +197,7 @@
         "volumenes": "9 (abierta)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1W6WMtujTTfx_NWc6W62X1w",
-        "imagen": "imagenes/Kowloon.jpg"
+        "imagen": "imagenes/Kowloon.webp"
     },
     {
         "titulo": "Frieren",
