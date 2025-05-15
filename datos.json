@@ -1,5 +1,44 @@
 [
     {
+        "titulo": "Hellsing - Edición Coleccionista",
+        "demografia": "Seinen",
+        "guionista": "Kohta Hirano",
+        "dibujante": "Kohta Hirano",
+        "volumenes": "5 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1Iaw3yLf3eqJDcFnKhaKPUA",
+        "imagen": "imagenes/hellsing.webp",
+        "imagenes": [ 
+            "imagenes/hellsing/hellsing.webp",
+            "imagenes/hellsing/hellsing2.webp",
+            "imagenes/hellsing/hellsing3.webp",
+            "imagenes/hellsing/hellsing4.webp",
+            "imagenes/hellsing/hellsing5.webp"
+        ]
+    },
+    {
+        "titulo": "Angel Sanctuary",
+        "demografia": "Shojo",
+        "guionista": "Kaori Yuki",
+        "dibujante": "Kaori Yuki",
+        "volumenes": "10 dobles (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1j2DNFv0wJ2r1AzwRlWdZmA",
+        "imagen": "imagenes/angelsanctuary.webp",
+        "imagenes": [ 
+            "imagenes/angelsanctuary/angelsanctuary.webp",
+            "imagenes/angelsanctuary/angelsanctuary2.webp",
+            "imagenes/angelsanctuary/angelsanctuary3.webp",
+            "imagenes/angelsanctuary/angelsanctuary4.webp",
+            "imagenes/angelsanctuary/angelsanctuary5.webp",
+            "imagenes/angelsanctuary/angelsanctuary6.webp",
+            "imagenes/angelsanctuary/angelsanctuary7.webp",
+            "imagenes/angelsanctuary/angelsanctuary8.webp",
+            "imagenes/angelsanctuary/angelsanctuary9.webp",
+            "imagenes/angelsanctuary/angelsanctuary10.webp"
+        ]        
+    },
+    {
         "titulo": "Trigun Maximum",
         "demografia": "Shonen",
         "guionista": "Yasuhiro Nightow",
@@ -7,7 +46,11 @@
         "volumenes": "14 (cerrada)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1406074kYTYGpVdwoQqyE7Q",
-        "imagen": "imagenes/trigunmaximum.webp"
+        "imagen": "imagenes/trigunmaximum.webp",
+        "imagenes":[
+            "imagenes/trigunmaximum.webp",
+            "imagenes/trigunmaximum2.webp"
+        ]
     },
     {
         "titulo": "Saint Seiya - Episodio G",
@@ -17,7 +60,15 @@
         "volumenes": "20 (cerrada)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1YQEMEniTVeKv37ZnhunNuQ",
-        "imagen": "imagenes/saintseiyaepisodiog.webp"
+        "imagen": "imagenes/saintseiyaepisodiog.webp",
+        "imagenes":[
+            "imagenes/saintseiyaepisodiog0.webp",
+            "imagenes/saintseiyaepisodiog1.webp",
+            "imagenes/saintseiyaepisodiog2.webp",
+            "imagenes/saintseiyaepisodiog3.webp",
+            "imagenes/saintseiyaepisodiog4.webp",
+            "imagenes/saintseiyaepisodiog5.webp"
+        ]
     },
     {
         "titulo": "Kitaro",
@@ -27,7 +78,18 @@
         "volumenes": "11 (cerrada)",
         "editorial": "Astiberri",
         "enlace": "https://1024terabox.com/s/1CnziB6WvtpBR180qPfoKfQ",
-        "imagen": "imagenes/kitaro.webp"
+        "imagen": "imagenes/kitaro.webp",
+        "imagenes":[
+            "imagenes/kitaro.webp",
+            "imagenes/kitaro2.webp",
+            "imagenes/kitaro3.webp",
+            "imagenes/kitaro4.webp",
+            "imagenes/kitaro5.webp",
+            "imagenes/kitaro6.webp",
+            "imagenes/kitaro7.webp",
+            "imagenes/kitaro8.webp",
+            "imagenes/kitaro8.webp"
+        ]
     },
     {
         "titulo": "Guardianes de la Noche (Kimetsu no Yaiba)",
@@ -37,7 +99,16 @@
         "volumenes": "23 (cerrada)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1mwTC9WSElBdcBF2ls6Pung",
-        "imagen": "imagenes/kimetsu.webp"
+        "imagen": "imagenes/kimetsu.webp",
+        "imagenes":[
+            "imagenes/kimetsu.webp",
+            "imagenes/kimetsu2.webp",
+            "imagenes/kimetsu3.webp",
+            "imagenes/kimetsu4.webp",
+            "imagenes/kimetsu5.webp",
+            "imagenes/kimetsu6.webp",
+            "imagenes/kimetsu7.webp"
+        ]
     },
     {
         "titulo": "Bleach - Edición Maximum",
@@ -47,7 +118,32 @@
         "volumenes": "37 dobles (cerrada)",
         "editorial": "Panini Manga",
         "enlace": "https://1024terabox.com/s/1qKpW1Iq3I-vZ0lTr_sgoMQ",
-        "imagen": "imagenes/bleachmaximum.webp"
+        "imagen": "imagenes/bleachmaximum.webp",
+        "imagenes":[
+            "imagenes/bleachmaximum.webp",
+            "imagenes/bleachmaximum2.webp",
+            "imagenes/bleachmaximum3.webp",
+            "imagenes/bleachmaximum4.webp",
+            "imagenes/bleachmaximum5.webp",
+            "imagenes/bleachmaximum6.webp",
+            "imagenes/bleachmaximum7.webp",
+            "imagenes/bleachmaximum8.webp",
+            "imagenes/bleachmaximum9.webp",
+            "imagenes/bleachmaximum10.webp",
+            "imagenes/bleachmaximum11.webp",
+            "imagenes/bleachmaximum12.webp",
+            "imagenes/bleachmaximum13.webp",
+            "imagenes/bleachmaximum14.webp",
+            "imagenes/bleachmaximum15.webp",
+            "imagenes/bleachmaximum16.webp",
+            "imagenes/bleachmaximum17.webp",
+            "imagenes/bleachmaximum18.webp",
+            "imagenes/bleachmaximum19.webp",
+            "imagenes/bleachmaximum20.webp",
+            "imagenes/bleachmaximum21.webp",
+            "imagenes/bleachmaximum22.webp",
+            "imagenes/bleachmaximum23.webp"
+        ]
     },
     {
         "titulo": "The Prince of Tennis",
@@ -57,7 +153,51 @@
         "volumenes": "42 (cerrada)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1N5AA2trKCpxE67YLldt3VQ",
-        "imagen": "imagenes/theprinceoftennis.webp"
+        "imagen": "imagenes/theprinceoftennis.webp",
+        "imagenes":[
+            "imagenes/theprinceoftennis.webp",
+            "imagenes/theprinceoftennis2.webp",
+            "imagenes/theprinceoftennis3.webp",
+            "imagenes/theprinceoftennis4.webp",
+            "imagenes/theprinceoftennis5.webp",
+            "imagenes/theprinceoftennis6.webp",
+            "imagenes/theprinceoftennis7.webp",
+            "imagenes/theprinceoftennis8.webp",
+            "imagenes/theprinceoftennis9.webp",
+            "imagenes/theprinceoftennis10.webp",
+            "imagenes/theprinceoftennis11.webp",
+            "imagenes/theprinceoftennis12.webp",
+            "imagenes/theprinceoftennis13.webp",
+            "imagenes/theprinceoftennis14.webp",
+            "imagenes/theprinceoftennis15.webp",
+            "imagenes/theprinceoftennis16.webp",
+            "imagenes/theprinceoftennis17.webp",
+            "imagenes/theprinceoftennis18.webp",
+            "imagenes/theprinceoftennis19.webp",
+            "imagenes/theprinceoftennis20.webp",
+            "imagenes/theprinceoftennis21.webp",
+            "imagenes/theprinceoftennis22.webp",
+            "imagenes/theprinceoftennis23.webp",
+            "imagenes/theprinceoftennis24.webp",
+            "imagenes/theprinceoftennis25.webp",
+            "imagenes/theprinceoftennis26.webp",
+            "imagenes/theprinceoftennis27.webp",
+            "imagenes/theprinceoftennis28.webp",
+            "imagenes/theprinceoftennis29.webp",
+            "imagenes/theprinceoftennis30.webp",
+            "imagenes/theprinceoftennis31.webp",
+            "imagenes/theprinceoftennis32.webp",
+            "imagenes/theprinceoftennis33.webp",
+            "imagenes/theprinceoftennis34.webp",
+            "imagenes/theprinceoftennis35.webp",
+            "imagenes/theprinceoftennis36.webp",
+            "imagenes/theprinceoftennis37.webp",
+            "imagenes/theprinceoftennis38.webp",
+            "imagenes/theprinceoftennis39.webp",
+            "imagenes/theprinceoftennis40.webp",
+            "imagenes/theprinceoftennis41.webp",
+            "imagenes/theprinceoftennis42.webp"
+        ]
     },
     {
         "titulo": "Samurai Deeper Kyo",
@@ -67,7 +207,47 @@
         "volumenes": "38 (cerrada)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1D7VJejhuj9_bD1x7dCka2w",
-        "imagen": "imagenes/samuraideeperkyo.webp"
+        "imagen": "imagenes/samuraideeperkyo.webp",
+        "imagenes":[
+            "imagenes/samuraideeperkyo.webp",
+            "imagenes/samuraideeperkyo2.webp",
+            "imagenes/samuraideeperkyo/samuraideeperkyo3.webp",
+            "imagenes/samuraideeperkyo4.webp",
+            "imagenes/samuraideeperkyo5.webp",
+            "imagenes/samuraideeperkyo6.webp",
+            "imagenes/samuraideeperkyo7.webp",
+            "imagenes/samuraideeperkyo8.webp",
+            "imagenes/samuraideeperkyo9.webp",
+            "imagenes/samuraideeperkyo10.webp",
+            "imagenes/samuraideeperkyo11.webp",
+            "imagenes/samuraideeperkyo12.webp",
+            "imagenes/samuraideeperkyo13.webp",
+            "imagenes/samuraideeperkyo14.webp",
+            "imagenes/samuraideeperkyo15.webp",
+            "imagenes/samuraideeperkyo16.webp",
+            "imagenes/samuraideeperkyo17.webp",
+            "imagenes/samuraideeperkyo18.webp",
+            "imagenes/samuraideeperkyo19.webp",
+            "imagenes/samuraideeperkyo20.webp",
+            "imagenes/samuraideeperkyo21.webp",
+            "imagenes/samuraideeperkyo22.webp",
+            "imagenes/samuraideeperkyo23.webp",
+            "imagenes/samuraideeperkyo24.webp",
+            "imagenes/samuraideeperkyo25.webp",
+            "imagenes/samuraideeperkyo26.webp",
+            "imagenes/samuraideeperkyo27.webp",
+            "imagenes/samuraideeperkyo28.webp",
+            "imagenes/samuraideeperkyo29.webp",
+            "imagenes/samuraideeperkyo30.webp",
+            "imagenes/samuraideeperkyo31.webp",
+            "imagenes/samuraideeperkyo32.webp",
+            "imagenes/samuraideeperkyo33.webp",
+            "imagenes/samuraideeperkyo34.webp",
+            "imagenes/samuraideeperkyo35.webp",
+            "imagenes/samuraideeperkyo36.webp",
+            "imagenes/samuraideeperkyo37.webp",
+            "imagenes/samuraideeperkyo38.webp"
+        ]
     },
     {
         "titulo": "Querido hermano...",
@@ -77,7 +257,12 @@
         "volumenes": "3 (cerrada)",
         "editorial": "Arechi Manga",
         "enlace": "https://1024terabox.com/s/1PAvj9cO6pDSysK16ycc-wQ",
-        "imagen": "imagenes/queridohermano.webp"
+        "imagen": "imagenes/queridohermano.webp",
+        "imagenes":[
+            "imagenes/queridohermano.webp",
+            "imagenes/queridohermano2.webp",
+            "imagenes/queridohermano3.webp"
+    ]
     },
     {
         "titulo": "Llegó la primavera",
@@ -87,7 +272,15 @@
         "volumenes": "6 (cerrada)",
         "editorial": "ECC Ediciones",
         "enlace": "https://1024terabox.com/s/1QaNDe0kQD3mtgMnaYpCZWg",
-        "imagen": "imagenes/llegolaprimavera.webp"
+        "imagen": "imagenes/llegolaprimavera.webp",
+        "imagenes":[
+            "imagenes/llegolaprimavera.webp",
+            "imagenes/llegolaprimavera2.webp",
+            "imagenes/llegolaprimavera3.webp",
+            "imagenes/llegolaprimavera4.webp",
+            "imagenes/llegolaprimavera5.webp",
+            "imagenes/llegolaprimavera6.webp"
+    ]
     },
     {
         "titulo": "Inazuma Eleven",

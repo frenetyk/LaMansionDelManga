@@ -5,15 +5,19 @@ document.addEventListener('DOMContentLoaded', async () => {
     const searchInput = document.getElementById('searchInput');
     const demografiaFilter = document.getElementById('demografiaFilter');
     const editorialFilter = document.getElementById('editorialFilter');
-    const estadoFilter = document.getElementById('estadoFilter'); // Si lo añadiste
+    const estadoFilter = document.getElementById('estadoFilter');
     const sortButton = document.getElementById('sortButton');
+
+    const modal = document.getElementById('portadasModal');
+    const galeria = document.getElementById('portadasGaleria');
+    const closeBtn = document.querySelector('.close-button');
 
     // ===== 2. VARIABLES GLOBALES ===== //
     let currentPage = 1;
     const itemsPerPage = 20;
     let currentMangas = [];
     let isSorted = false;
-    let allMangas = []; // Para almacenar los datos originales
+    let allMangas = [];
 
     // ===== 3. CARGAR DATOS CON LOADING STATE ===== //
     try {
@@ -22,14 +26,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const response = await fetch('datos.json');
         if (!response.ok) throw new Error('Error al cargar el JSON');
-        
-        allMangas = await response.json();
-        currentMangas = [...allMangas]; // Copia para trabajar
 
-        // Generar opciones de filtros
+        allMangas = await response.json();
+        currentMangas = [...allMangas];
+
         const demografias = [...new Set(allMangas.map(m => m.demografia))];
         const editoriales = [...new Set(allMangas.map(m => m.editorial))];
-        
+
         demografias.forEach(d => {
             demografiaFilter.innerHTML += `<option value="${d}">${d}</option>`;
         });
@@ -38,14 +41,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             editorialFilter.innerHTML += `<option value="${e}">${e}</option>`;
         });
 
-        // Renderizar inicial
         renderMangas();
 
     } catch (error) {
         console.error("Error:", error);
-        mangasContainer.innerHTML = `
-            <p class="error-message">⚠️ Error al cargar los mangas: ${error.message}</p>
-        `;
+        mangasContainer.innerHTML = `<p class="error-message">⚠️ Error al cargar los mangas: ${error.message}</p>`;
     } finally {
         loadingElement.style.display = 'none';
     }
@@ -56,54 +56,54 @@ document.addEventListener('DOMContentLoaded', async () => {
         const demografia = demografiaFilter.value;
         const editorial = editorialFilter.value;
         const estado = estadoFilter.value;
-    
+
         currentMangas = allMangas.filter(manga => {
-            const matchesSearch = 
+            const matchesSearch =
                 manga.titulo.toLowerCase().includes(searchTerm) ||
-                manga.guionista.toLowerCase().includes(searchTerm) || 
+                manga.guionista.toLowerCase().includes(searchTerm) ||
                 manga.dibujante.toLowerCase().includes(searchTerm);
-            
+
             const matchesDemo = demografia ? manga.demografia === demografia : true;
             const matchesEditorial = editorial ? manga.editorial === editorial : true;
-            const matchesEstado = estado ? 
-                (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('cerrada')) : 
+            const matchesEstado = estado ?
+                (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('cerrada')) :
                 true;
-    
+
             return matchesSearch && matchesDemo && matchesEditorial && matchesEstado;
         });
-    
+
         currentPage = 1;
         renderMangas();
     }
 
     function renderMangas() {
         mangasContainer.innerHTML = '';
-        
+
         const startIndex = (currentPage - 1) * itemsPerPage;
         const paginatedMangas = currentMangas.slice(startIndex, startIndex + itemsPerPage);
-        
+
         if (paginatedMangas.length === 0) {
             mangasContainer.innerHTML = '<p class="no-results">No se encontraron mangas</p>';
             document.getElementById('pagination').innerHTML = '';
             return;
         }
-        
+
         paginatedMangas.forEach(manga => {
+            const portada = manga.imagenes && manga.imagenes.length > 0 ? manga.imagenes[0] : 'imagenes/default.jpg';
             mangasContainer.innerHTML += `
                 <div class="manga-card">
-                    <img src="${manga.imagen}" alt="${manga.titulo}" class="manga-image">
-                    <h3>${manga.titulo}</h3>
+                    <img src="${portada}" alt="${manga.titulo}" class="manga-image">
+                    <h3 class="manga-title" data-titulo="${manga.titulo}">${manga.titulo}</h3>
                     <p><strong>Guionista:</strong> ${manga.guionista}</p>
                     <p><strong>Dibujante:</strong> ${manga.dibujante}</p>
                     <p><strong>Demografía:</strong> ${manga.demografia}</p>
                     <p><strong>Volúmenes:</strong> ${manga.volumenes}</p>
                     <p><strong>Editorial:</strong> ${manga.editorial}</p>
-                    <!-- Resto de tus campos -->
                     <a href="${manga.enlace}" target="_blank" class="enlace-btn">Descargar</a>
                 </div>
             `;
         });
-        
+
         renderPagination();
     }
 
@@ -111,10 +111,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         const totalPages = Math.ceil(currentMangas.length / itemsPerPage);
         const pagination = document.getElementById('pagination');
         pagination.innerHTML = '';
-        
+
         if (totalPages <= 1) return;
-        
-        // Botón Anterior
+
         if (currentPage > 1) {
             const prevBtn = document.createElement('button');
             prevBtn.textContent = '← Anterior';
@@ -124,8 +123,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             });
             pagination.appendChild(prevBtn);
         }
-        
-        // Botones de página
+
         for (let i = 1; i <= totalPages; i++) {
             const pageBtn = document.createElement('button');
             pageBtn.textContent = i;
@@ -139,8 +137,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             });
             pagination.appendChild(pageBtn);
         }
-        
-        // Botón Siguiente
+
         if (currentPage < totalPages) {
             const nextBtn = document.createElement('button');
             nextBtn.textContent = 'Siguiente →';
@@ -157,17 +154,38 @@ document.addEventListener('DOMContentLoaded', async () => {
     demografiaFilter.addEventListener('change', filterMangas);
     editorialFilter.addEventListener('change', filterMangas);
     estadoFilter.addEventListener('change', filterMangas);
-    if (estadoFilter) estadoFilter.addEventListener('change', filterMangas);
-    
+
     sortButton.addEventListener('click', () => {
         isSorted = !isSorted;
         currentMangas.sort((a, b) => {
-            return isSorted ? 
-                b.titulo.localeCompare(a.titulo) : 
+            return isSorted ?
+                b.titulo.localeCompare(a.titulo) :
                 a.titulo.localeCompare(b.titulo);
         });
         sortButton.textContent = isSorted ? 'Ordenar Z-A' : 'Ordenar A-Z';
         currentPage = 1;
         renderMangas();
+    });
+
+    // ===== 6. MOSTRAR GALERÍA DE PORTADAS EN MODAL ===== //
+    document.addEventListener('click', (e) => {
+        if (e.target.classList.contains('manga-title')) {
+            const titulo = e.target.dataset.titulo;
+            const manga = allMangas.find(m => m.titulo === titulo);
+            if (!manga || !manga.imagenes) return;
+
+            galeria.innerHTML = manga.imagenes.map(img =>
+                `<img src="${img}" alt="${titulo}">`
+            ).join('');
+            modal.style.display = 'flex';
+        }
+    });
+
+    closeBtn.addEventListener('click', () => {
+        modal.style.display = 'none';
+    });
+
+    modal.addEventListener('click', (e) => {
+        if (e.target === modal) modal.style.display = 'none';
     });
 });
