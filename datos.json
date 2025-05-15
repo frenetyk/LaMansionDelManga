@@ -287,9 +287,9 @@
         "enlace": "https://1024terabox.com/s/1PAvj9cO6pDSysK16ycc-wQ",
         "imagen": "imagenes/queridohermano.webp",
         "imagenes":[
-            "imagenes/queridohermano.webp",
-            "imagenes/queridohermano2.webp",
-            "imagenes/queridohermano3.webp"
+            "imagenes/queridohermano/queridohermano1.webp",
+            "imagenes/queridohermano/queridohermano2.webp",
+            "imagenes/queridohermano/queridohermano3.webp"
     ]
     },
     {
@@ -302,12 +302,12 @@
         "enlace": "https://1024terabox.com/s/1QaNDe0kQD3mtgMnaYpCZWg",
         "imagen": "imagenes/llegolaprimavera.webp",
         "imagenes":[
-            "imagenes/llegolaprimavera.webp",
-            "imagenes/llegolaprimavera2.webp",
-            "imagenes/llegolaprimavera3.webp",
-            "imagenes/llegolaprimavera4.webp",
-            "imagenes/llegolaprimavera5.webp",
-            "imagenes/llegolaprimavera6.webp"
+            "imagenes/llegolaprimavera/llegolaprimavera1.webp",
+            "imagenes/llegolaprimavera/llegolaprimavera2.webp",
+            "imagenes/llegolaprimavera/llegolaprimavera3.webp",
+            "imagenes/llegolaprimavera/llegolaprimavera4.webp",
+            "imagenes/llegolaprimavera/llegolaprimavera5.webp",
+            "imagenes/llegolaprimavera/llegolaprimavera6.webp"
     ]
     },
     {
@@ -318,7 +318,19 @@
         "volumenes": "10 (cerrada)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/1vuoRO3smsjrVdLh7TB-Oaw",
-        "imagen": "imagenes/inazumaeleven.webp"
+        "imagen": "imagenes/inazumaeleven.webp",
+                "imagenes":[
+            "imagenes/inazumaeleven/inazumaeleven1.webp",
+            "imagenes/inazumaeleven/inazumaeleven2.webp",
+            "imagenes/inazumaeleven/inazumaeleven3.webp",
+            "imagenes/inazumaeleven/inazumaeleven4.webp",
+            "imagenes/inazumaeleven/inazumaeleven5.webp",
+            "imagenes/inazumaeleven/inazumaeleven6.webp",
+            "imagenes/inazumaeleven/inazumaeleven7.webp",
+            "imagenes/inazumaeleven/inazumaeleven8.webp",
+            "imagenes/inazumaeleven/inazumaeleven9.webp",
+            "imagenes/inazumaeleven/inazumaeleven10.webp"
+    ]
     },
     {
         "titulo": "Fire Force",
