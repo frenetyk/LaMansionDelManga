@@ -340,7 +340,43 @@
         "volumenes": "34 (cerrada)",
         "editorial": "Panini Manga",
         "enlace": "https://1024terabox.com/s/1boz0m6-9eq0oVuKwVSmotw",
-        "imagen": "imagenes/fireforce.webp"
+        "imagen": "imagenes/fireforce.webp",
+        "imagenes":[
+            "imagenes/fireforce/fireforce1.webp",
+            "imagenes/fireforce/fireforce2.webp",
+            "imagenes/fireforce/fireforce3.webp",
+            "imagenes/fireforce/fireforce4.webp",
+            "imagenes/fireforce/fireforce5.webp",
+            "imagenes/fireforce/fireforce6.webp",
+            "imagenes/fireforce/fireforce7.webp",
+            "imagenes/fireforce/fireforce8.webp",
+            "imagenes/fireforce/fireforce9.webp",
+            "imagenes/fireforce/fireforce10.webp",
+            "imagenes/fireforce/fireforce11.webp",
+            "imagenes/fireforce/fireforce12.webp",
+            "imagenes/fireforce/fireforce13.webp",
+            "imagenes/fireforce/fireforce14.webp",
+            "imagenes/fireforce/fireforce15.webp",
+            "imagenes/fireforce/fireforce16.webp",
+            "imagenes/fireforce/fireforce17.webp",
+            "imagenes/fireforce/fireforce18.webp",
+            "imagenes/fireforce/fireforce19.webp",
+            "imagenes/fireforce/fireforce20.webp",
+            "imagenes/fireforce/fireforce21.webp",
+            "imagenes/fireforce/fireforce22.webp",
+            "imagenes/fireforce/fireforce23.webp",
+            "imagenes/fireforce/fireforce24.webp",
+            "imagenes/fireforce/fireforce25.webp",
+            "imagenes/fireforce/fireforce26.webp",
+            "imagenes/fireforce/fireforce27.webp",
+            "imagenes/fireforce/fireforce28.webp",
+            "imagenes/fireforce/fireforce29.webp",
+            "imagenes/fireforce/fireforce30.webp",
+            "imagenes/fireforce/fireforce31.webp",
+            "imagenes/fireforce/fireforce32.webp",
+            "imagenes/fireforce/fireforce33.webp",
+            "imagenes/fireforce/fireforce34.webp"
+        ]
     },
     {
         "titulo": "Farewell My Dear Cramer",
@@ -350,7 +386,16 @@
         "volumenes": "7 dobles (cerrada)",
         "editorial": "Distrito Manga",
         "enlace": "https://1024terabox.com/s/1Hf0hQlN_QuPZABjecDsuOA",
-        "imagen": "imagenes/farewellmydearcramer.webp"
+        "imagen": "imagenes/farewellmydearcramer.webp",
+        "imagenes":[
+            "imagenes/farewellmydearcramer/farewell1.webp",
+            "imagenes/farewellmydearcramer/farewell2.webp",
+            "imagenes/farewellmydearcramer/farewell3.webp",
+            "imagenes/farewellmydearcramer/farewell4.webp",
+            "imagenes/farewellmydearcramer/farewell5.webp",
+            "imagenes/farewellmydearcramer/farewell6.webp",
+            "imagenes/farewellmydearcramer/farewell7.webp"
+        ]
     },
     {
         "titulo": "Crimson Hero",
@@ -360,7 +405,29 @@
         "volumenes": "20 (cerrada)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1eeP0gPYAysZ26M16uEL4tg",
-        "imagen": "imagenes/crimsonhero.webp"
+        "imagen": "imagenes/crimsonhero.webp",
+        "imagenes":[
+            "imagenes/crimsonhero/crimsonhero1.webp",
+            "imagenes/crimsonhero/crimsonhero2.webp",
+            "imagenes/crimsonhero/crimsonhero3.webp",
+            "imagenes/crimsonhero/crimsonhero4.webp",
+            "imagenes/crimsonhero/crimsonhero5.webp",
+            "imagenes/crimsonhero/crimsonhero6.webp",
+            "imagenes/crimsonhero/crimsonhero7.webp",
+            "imagenes/crimsonhero/crimsonhero8.webp",
+            "imagenes/crimsonhero/crimsonhero9.webp",
+            "imagenes/crimsonhero/crimsonhero10.webp",
+            "imagenes/crimsonhero/crimsonhero11.webp",
+            "imagenes/crimsonhero/crimsonhero12.webp",
+            "imagenes/crimsonhero/crimsonhero13.webp",
+            "imagenes/crimsonhero/crimsonhero14.webp",
+            "imagenes/crimsonhero/crimsonhero15.webp",
+            "imagenes/crimsonhero/crimsonhero16.webp",
+            "imagenes/crimsonhero/crimsonhero17.webp",
+            "imagenes/crimsonhero/crimsonhero18.webp",
+            "imagenes/crimsonhero/crimsonhero19.webp",
+            "imagenes/crimsonhero/crimsonhero20.webp"
+        ]
     },
     {
         "titulo": "Bullet The Wizard",
@@ -370,7 +437,11 @@
         "volumenes": "2 (cerrada)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/17bkwBxYT7nTkkiHbptmGyg",
-        "imagen": "imagenes/bulletthewizard.webp"
+        "imagen": "imagenes/bulletthewizard.webp",
+        "imagenes":[
+            "imagenes/bulletthewizard/bulletthewizard1.webp",
+            "imagenes/bulletthewizard/bulletthewizard2.webp"
+        ]
     },
     {
         "titulo": "Akira - Edición Original",
@@ -380,7 +451,15 @@
         "volumenes": "6 (cerrada)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1BfUDsy3_0wSlfnrf0zTWXA",
-        "imagen": "imagenes/akira.webp"
+        "imagen": "imagenes/akira.webp",
+        "imagenes":[
+            "imagenes/akira/akira1.webp",
+            "imagenes/akira/akira2.webp",
+            "imagenes/akira/akira3.webp",
+            "imagenes/akira/akira4.webp",
+            "imagenes/akira/akira5.webp",
+            "imagenes/akira/akira6.webp"
+        ]
     },
     {
         "titulo": "Real",
@@ -390,7 +469,24 @@
         "volumenes": "15 (abierta)",
         "editorial": "Ivrea",
         "enlace": "https://1024terabox.com/s/1Pn477SJ07UJ7SzBkGxktVg",
-        "imagen": "imagenes/real.jpg"
+        "imagen": "imagenes/real.jpg",
+        "imagenes":[
+            "imagenes/real/real1.webp",
+            "imagenes/real/real2.webp",
+            "imagenes/real/real3.webp",
+            "imagenes/real/real4.webp",
+            "imagenes/real/real5.webp",
+            "imagenes/real/real6.webp",
+            "imagenes/real/real7.webp",
+            "imagenes/real/real8.webp",
+            "imagenes/real/real9.webp",
+            "imagenes/real/real10.webp",
+            "imagenes/real/real11.webp",
+            "imagenes/real/real12.webp",
+            "imagenes/real/real13.webp",
+            "imagenes/real/real14.webp",
+            "imagenes/real/real15.webp"
+        ]
     },
     {
         "titulo": "Re Cervin",
@@ -400,7 +496,14 @@
         "volumenes": "4 (abierta)",
         "editorial": "Milky Way",
         "enlace": "https://1024terabox.com/s/1kBKUz7dpe6aLju2Rg02p9A",
-        "imagen": "imagenes/recervin.jpg"
+        "imagen": "imagenes/recervin.jpg",
+        "imagenes":[
+            "imagenes/recervin/recervin1.webp",
+            "imagenes/recervin/recervin2.webp",
+            "imagenes/recervin/recervin3.webp",
+            "imagenes/recervin/recervin4.webp",
+            "imagenes/recervin/recervin5.webp"
+        ]
     },
     {
         "titulo": "No soy un Ángel",
@@ -410,7 +513,13 @@
         "volumenes": "1 (abierta)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/17ophjeMAarwsuFKjL1GI4Q",
-        "imagen": "imagenes/nosoyunangel.jpg"
+        "imagen": "imagenes/nosoyunangel.jpg",
+        "imagenes":[
+            "imagenes/nosoyunangel/nosoyunangel1.webp",
+            "imagenes/nosoyunangel/nosoyunangel2.webp",
+            "imagenes/nosoyunangel/nosoyunangel3.webp",
+            "imagenes/nosoyunangel/nosoyunangel4.webp"
+        ]
     },
     {
         "titulo": "Mujina into the Deep",
@@ -1047,7 +1156,7 @@
         "demografia": "Shojo",
         "guionista": "Masami Tsuda",
         "dibujante": "Masami Tsuda",
-        "volumenes": "21 (cerrada)",
+        "volumenes": "7 (abierta)",
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1uI0o8nXeaSpj9mIkBL6xNA",
         "imagen": "imagenes/karekano.jpg"
