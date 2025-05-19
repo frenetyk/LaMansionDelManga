@@ -245,6 +245,41 @@
         ]
     },
     {
+        "titulo": "Bleach - Edición Maximum",
+        "demografia": "Shonen",
+        "guionista": "Tite Kubo",
+        "dibujante": "Tite Kubo",
+        "volumenes": "37 dobles (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1qKpW1Iq3I-vZ0lTr_sgoMQ",
+        "imagen": "imagenes/bleachmaximum.webp",
+        "imagenes":[
+            "imagenes/bleachmaximum/bleachmaximum1.webp",
+            "imagenes/bleachmaximum/bleachmaximum2.webp",
+            "imagenes/bleachmaximum/bleachmaximum3.webp",
+            "imagenes/bleachmaximum/bleachmaximum4.webp",
+            "imagenes/bleachmaximum/bleachmaximum5.webp",
+            "imagenes/bleachmaximum/bleachmaximum6.webp",
+            "imagenes/bleachmaximum/bleachmaximum7.webp",
+            "imagenes/bleachmaximum/bleachmaximum8.webp",
+            "imagenes/bleachmaximum/bleachmaximum9.webp",
+            "imagenes/bleachmaximum/bleachmaximum10.webp",
+            "imagenes/bleachmaximum/bleachmaximum11.webp",
+            "imagenes/bleachmaximum/bleachmaximum12.webp",
+            "imagenes/bleachmaximum/bleachmaximum13.webp",
+            "imagenes/bleachmaximum/bleachmaximum14.webp",
+            "imagenes/bleachmaximum/bleachmaximum15.webp",
+            "imagenes/bleachmaximum/bleachmaximum16.webp",
+            "imagenes/bleachmaximum/bleachmaximum17.webp",
+            "imagenes/bleachmaximum/bleachmaximum18.webp",
+            "imagenes/bleachmaximum/bleachmaximum19.webp",
+            "imagenes/bleachmaximum/bleachmaximum20.webp",
+            "imagenes/bleachmaximum/bleachmaximum21.webp",
+            "imagenes/bleachmaximum/bleachmaximum22.webp",
+            "imagenes/bleachmaximum/bleachmaximum23.webp"
+        ]
+    },
+    {
         "titulo": "Blue Lock",
         "demografia": "Spokon",
         "guionista": "Muneyuki Kaneshiro",
@@ -443,7 +478,24 @@
         "volumenes": "19 (abierta)",
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1-nA4mJOtoHtkHba4yQvSdA",
-        "imagen": "imagenes/dandadan.jpg"
+        "imagen": "imagenes/dandadan.jpg",
+        "imagenes":[
+            "imagenes/dandadan/dandadan1.webp",
+            "imagenes/dandadan/dandadan2.webp",
+            "imagenes/dandadan/dandadan3.webp",
+            "imagenes/dandadan/dandadan4.webp",
+            "imagenes/dandadan/dandadan5.webp",
+            "imagenes/dandadan/dandadan6.webp",
+            "imagenes/dandadan/dandadan7.webp",
+            "imagenes/dandadan/dandadan8.webp",
+            "imagenes/dandadan/dandadan9.webp",
+            "imagenes/dandadan/dandadan10.webp",
+            "imagenes/dandadan/dandadan11.webp",
+            "imagenes/dandadan/dandadan12.webp",
+            "imagenes/dandadan/dandadan13.webp",
+            "imagenes/dandadan/dandadan14.webp",
+            "imagenes/dandadan/dandadan15.webp"
+        ]
     },
     {
         "titulo": "Dash Kappei (Chicho Terremoto)",
@@ -453,7 +505,19 @@
         "volumenes": "10 (cerrada)",
         "editorial": "Kimmo Editorial",
         "enlace": "https://1024terabox.com/s/14J5_DJAnh7mZ-JDryiFcyg",
-        "imagen": "imagenes/dashkappei.jpg"
+        "imagen": "imagenes/dashkappei.jpg",
+        "imagenes":[
+            "imagenes/dashkappei/dashkappei1.webp",
+            "imagenes/dashkappei/dashkappei2.webp",
+            "imagenes/dashkappei/dashkappei3.webp",
+            "imagenes/dashkappei/dashkappei4.webp",
+            "imagenes/dashkappei/dashkappei5.webp",
+            "imagenes/dashkappei/dashkappei6.webp",
+            "imagenes/dashkappei/dashkappei7.webp",
+            "imagenes/dashkappei/dashkappei8.webp",
+            "imagenes/dashkappei/dashkappei9.webp",
+            "imagenes/dashkappei/dashkappei10.webp"
+        ]
     },
     {
         "titulo": "Doraemon",
@@ -463,7 +527,11 @@
         "volumenes": "15 (abierta)",
         "editorial": "Planeta Cómic",
         "enlace": "",
-        "imagen": "imagenes/doraemon3en1.jpg"
+        "imagen": "imagenes/doraemon3en1.jpg",
+        "imagenes":[
+            "imagenes/doraemon3en1/doraemon3en11.webp",
+            "imagenes/doraemon3en1/doraemon3en12.webp"
+        ]
     },
     {
         "titulo": "Dragon Ball - Ultimate Edition",
@@ -473,7 +541,43 @@
         "volumenes": "34 (completa)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/1sx5RKwN7D1nenwwCzlOdzw",
-        "imagen": "imagenes/dragonballultimateedition.jpg"
+        "imagen": "imagenes/dragonballultimateedition.jpg",
+        "imagenes":[
+            "imagenes/dragonballultimateedition/dragonballultimateedition1.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition2.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition3.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition4.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition5.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition6.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition7.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition8.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition9.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition10.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition11.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition12.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition13.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition14.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition15.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition16.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition17.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition18.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition19.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition20.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition21.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition22.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition23.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition24.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition25.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition26.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition27.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition28.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition29.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition30.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition31.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition32.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition33.webp",
+            "imagenes/dragonballultimateedition/dragonballultimateedition34.webp"
+        ]
     },
     {
         "titulo": "Dragon Quest - The Adventure of Dai",
@@ -483,7 +587,14 @@
         "volumenes": "5 (abierta)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/1CNKfN9yR3E0KHhJ-fLw49A",
-        "imagen": "imagenes/adventureofdai.jpg"
+        "imagen": "imagenes/adventureofdai.jpg",
+        "imagenes":[
+            "imagenes/adventureofdai/adventureofdai1.webp",
+            "imagenes/adventureofdai/adventureofdai2.webp",
+            "imagenes/adventureofdai/adventureofdai3.webp",
+            "imagenes/adventureofdai/adventureofdai4.webp",
+            "imagenes/adventureofdai/adventureofdai5.webp"
+        ]
     },
     {
         "titulo": "Dragon Quest - The Adventure of Dai - The Hero Avan and the Dark Lord of Hellfire",
@@ -493,7 +604,14 @@
         "volumenes": "2 (abierta)",
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/1Dahd5lCEAxS1SDGwVclL8w",
-        "imagen": "imagenes/avanhero.jpg"
+        "imagen": "imagenes/avanhero.jpg",
+        "imagenes":[
+            "imagenes/avanhero/avanhero1.webp",
+            "imagenes/avanhero/avanhero2.webp",
+            "imagenes/avanhero/avanhero3.webp",
+            "imagenes/avanhero/avanhero4.webp",
+            "imagenes/avanhero/avanhero5.webp"
+        ]
     },
     {
         "titulo": "ECHOES",
@@ -503,17 +621,31 @@
         "volumenes": "1 (completa)",
         "editorial": "Editorial Kodai",
         "enlace": "https://1024terabox.com/s/1KDJ2OSGgboqPbghnm82GSQ",
-        "imagen": "imagenes/echoes.jpg"
+        "imagen": "imagenes/echoes.jpg",
+        "imagenes":[
+            "imagenes/tomosunicos/echoes.webp"
+        ]
     },
     {
-        "titulo": "Eden",
+        "titulo": "Eden: It's an Endless World!",
         "demografia": "Seinen",
         "guionista": "Hiroki Endo",
         "dibujante": "Hiroki Endo",
         "volumenes": "9 dobles (cerrada)",
         "editorial": "Panini Manga",
         "enlace": "https://1024terabox.com/s/1_q27XD-0PKu9CxD6Fd8O4w",
-        "imagen": "imagenes/eden.jpg"
+        "imagen": "imagenes/eden.jpg",
+        "imagenes":[
+            "imagenes/eden/eden1.webp",
+            "imagenes/eden/eden2.webp",
+            "imagenes/eden/eden3.webp",
+            "imagenes/eden/eden4.webp",
+            "imagenes/eden/eden5.webp",
+            "imagenes/eden/eden6.webp",
+            "imagenes/eden/eden7.webp",
+            "imagenes/eden/eden8.webp",
+            "imagenes/eden/eden9.webp"
+        ]
     },
     {
         "titulo": "Elegía Roja",
@@ -523,7 +655,10 @@
         "volumenes": "1 (completa)",
         "editorial": "Ponent Mon",
         "enlace": "https://1024terabox.com/s/1ETjtwBswDcCko8MtYESzPg",
-        "imagen": "imagenes/elegiaroja.jpg"
+        "imagen": "imagenes/elegiaroja.jpg",
+        "imagenes":[
+            "imagenes/tomosunicos/elegiaroja.webp"
+        ]
     },
     {
         "titulo": "Eyeshield 21",
@@ -544,6 +679,346 @@
         ]
     },
     {
+        "titulo": "Farewell My Dear Cramer",
+        "demografia": "Spokon",
+        "guionista": "Naoshi Arakawa",
+        "dibujante": "Naoshi Arakawa",
+        "volumenes": "7 dobles (cerrada)",
+        "editorial": "Distrito Manga",
+        "enlace": "https://1024terabox.com/s/1Hf0hQlN_QuPZABjecDsuOA",
+        "imagen": "imagenes/farewellmydearcramer.webp",
+        "imagenes":[
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell1.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell2.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell3.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell4.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell5.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell6.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell7.webp"
+        ]
+    },
+    {
+        "titulo": "Fire Force",
+        "demografia": "Shonen",
+        "guionista": "Atsushi Ohkubo",
+        "dibujante": "Atsushi Ohkubo",
+        "volumenes": "34 (cerrada)",
+        "editorial": "Panini Manga",
+        "enlace": "https://1024terabox.com/s/1boz0m6-9eq0oVuKwVSmotw",
+        "imagen": "imagenes/fireforce.webp",
+        "imagenes":[
+            "imagenes/fireforce/fireforce1.webp",
+            "imagenes/fireforce/fireforce2.webp",
+            "imagenes/fireforce/fireforce3.webp",
+            "imagenes/fireforce/fireforce4.webp",
+            "imagenes/fireforce/fireforce5.webp",
+            "imagenes/fireforce/fireforce6.webp",
+            "imagenes/fireforce/fireforce7.webp",
+            "imagenes/fireforce/fireforce8.webp",
+            "imagenes/fireforce/fireforce9.webp",
+            "imagenes/fireforce/fireforce10.webp",
+            "imagenes/fireforce/fireforce11.webp",
+            "imagenes/fireforce/fireforce12.webp",
+            "imagenes/fireforce/fireforce13.webp",
+            "imagenes/fireforce/fireforce14.webp",
+            "imagenes/fireforce/fireforce15.webp",
+            "imagenes/fireforce/fireforce16.webp",
+            "imagenes/fireforce/fireforce17.webp",
+            "imagenes/fireforce/fireforce18.webp",
+            "imagenes/fireforce/fireforce19.webp",
+            "imagenes/fireforce/fireforce20.webp",
+            "imagenes/fireforce/fireforce21.webp",
+            "imagenes/fireforce/fireforce22.webp",
+            "imagenes/fireforce/fireforce23.webp",
+            "imagenes/fireforce/fireforce24.webp",
+            "imagenes/fireforce/fireforce25.webp",
+            "imagenes/fireforce/fireforce26.webp",
+            "imagenes/fireforce/fireforce27.webp",
+            "imagenes/fireforce/fireforce28.webp",
+            "imagenes/fireforce/fireforce29.webp",
+            "imagenes/fireforce/fireforce30.webp",
+            "imagenes/fireforce/fireforce31.webp",
+            "imagenes/fireforce/fireforce32.webp",
+            "imagenes/fireforce/fireforce33.webp",
+            "imagenes/fireforce/fireforce34.webp"
+        ]
+    },
+    {
+        "titulo": "Flores de Piedra",
+        "demografia": "Shonen",
+        "guionista": "Hisashi Sakaguchi",
+        "dibujante": "Hisashi Sakaguchi",
+        "volumenes": "3 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/10Lf7pTk9rGuom9yJlJLSZg",
+        "imagen": "imagenes/floresdepiedra.jpg",
+        "imagenes":[
+            "imagenes/floresdepiedra/floresdepiedra1.webp",
+            "imagenes/floresdepiedra/floresdepiedra2.webp",
+            "imagenes/floresdepiedra/floresdepiedra3.webp",
+            "imagenes/floresdepiedra/floresdepiedra4.webp"
+        ]
+    },
+    {
+        "titulo": "Frieren",
+        "demografia": "Shonen",
+        "guionista": "Kanehiko Yamada",
+        "dibujante": "Tsukasa Abe",
+        "volumenes": "9 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1A4H0gWD1ZVT2JtJy1ljS8Q",
+        "imagen": "imagenes/frieren.jpg",
+        "imagenes":[
+            "imagenes/frieren/frieren1.webp",
+            "imagenes/frieren/frieren2.webp",
+            "imagenes/frieren/frieren3.webp",
+            "imagenes/frieren/frieren4.webp",
+            "imagenes/frieren/frieren5.webp",
+            "imagenes/frieren/frieren6.webp",
+            "imagenes/frieren/frieren7.webp",
+            "imagenes/frieren/frieren8.webp",
+            "imagenes/frieren/frieren9.webp",
+            "imagenes/frieren/frieren10.webp",
+            "imagenes/frieren/frieren11.webp",
+            "imagenes/frieren/frieren12.webp",
+            "imagenes/frieren/frieren13.webp"
+        ]
+    },
+    {
+        "titulo": "Gintama",
+        "demografia": "Shonen",
+        "guionista": "Hideaki Sorachi",
+        "dibujante": "Hideaki Sorachi",
+        "volumenes": "26 triples (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1vO-3s7rVC1EBZixcJQ5V4A",
+        "imagen": "imagenes/gintama.jpg",
+        "imagenes":[
+            "imagenes/gintama/gintama1.webp",
+            "imagenes/gintama/gintama2.webp",
+            "imagenes/gintama/gintama3.webp",
+            "imagenes/gintama/gintama4.webp",
+            "imagenes/gintama/gintama5.webp",
+            "imagenes/gintama/gintama6.webp",
+            "imagenes/gintama/gintama7.webp"
+        ]
+    },
+    {
+        "titulo": "Gokurakugai",
+        "demografia": "Shonen",
+        "guionista": "Yuto Sano",
+        "dibujante": "Yuto Sano",
+        "volumenes": "1 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/16i4TwKDKYPR2ZQNy8yhEDA",
+        "imagen": "imagenes/gokurakugai.jpg",
+        "imagenes":[
+            "imagenes/gokurakugai/gokurakugai1.webp",
+            "imagenes/gokurakugai/gokurakugai2.webp",
+            "imagenes/gokurakugai/gokurakugai3.webp"
+        ]
+    },
+    {
+        "titulo": "Golden Kamuy",
+        "demografia": "Seinen",
+        "guionista": "Satoru Noda",
+        "dibujante": "Satoru Noda",
+        "volumenes": "31 (cerrada)",
+        "editorial": "Milky Way",
+        "enlace": "https://1024terabox.com/s/1uhdj0ktT_GJz1aOZyFYS4Q",
+        "imagen": "imagenes/goldenkamuy.jpg",
+        "imagenes":[
+            "imagenes/goldenkamuy/goldenkamuy1.webp",
+            "imagenes/goldenkamuy/goldenkamuy2.webp",
+            "imagenes/goldenkamuy/goldenkamuy3.webp",
+            "imagenes/goldenkamuy/goldenkamuy4.webp",
+            "imagenes/goldenkamuy/goldenkamuy5.webp",
+            "imagenes/goldenkamuy/goldenkamuy6.webp",
+            "imagenes/goldenkamuy/goldenkamuy7.webp",
+            "imagenes/goldenkamuy/goldenkamuy8.webp",
+            "imagenes/goldenkamuy/goldenkamuy9.webp",
+            "imagenes/goldenkamuy/goldenkamuy10.webp",
+            "imagenes/goldenkamuy/goldenkamuy11.webp",
+            "imagenes/goldenkamuy/goldenkamuy12.webp",
+            "imagenes/goldenkamuy/goldenkamuy13.webp",
+            "imagenes/goldenkamuy/goldenkamuy14.webp",
+            "imagenes/goldenkamuy/goldenkamuy15.webp",
+            "imagenes/goldenkamuy/goldenkamuy16.webp",
+            "imagenes/goldenkamuy/goldenkamuy17.webp",
+            "imagenes/goldenkamuy/goldenkamuy18.webp",
+            "imagenes/goldenkamuy/goldenkamuy19.webp",
+            "imagenes/goldenkamuy/goldenkamuy20.webp",
+            "imagenes/goldenkamuy/goldenkamuy21.webp",
+            "imagenes/goldenkamuy/goldenkamuy22.webp",
+            "imagenes/goldenkamuy/goldenkamuy23.webp",
+            "imagenes/goldenkamuy/goldenkamuy24.webp",
+            "imagenes/goldenkamuy/goldenkamuy25.webp",
+            "imagenes/goldenkamuy/goldenkamuy26.webp",
+            "imagenes/goldenkamuy/goldenkamuy27.webp",
+            "imagenes/goldenkamuy/goldenkamuy28.webp",
+            "imagenes/goldenkamuy/goldenkamuy29.webp",
+            "imagenes/goldenkamuy/goldenkamuy30.webp",
+            "imagenes/goldenkamuy/goldenkamuy31.webp"
+        ]
+    },
+    {
+        "titulo": "GTO - Great Teacher Onizuka",
+        "demografia": "Shonen",
+        "guionista": "Toru Fujisawa",
+        "dibujante": "Toru Fujisawa",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1zW9nnh53nPmRR5FtD6sfcQ",
+        "imagen": "imagenes/gto.jpg",
+        "imagenes":[
+            "imagenes/gto/gto1.webp",
+            "imagenes/gto/gto2.webp",
+            "imagenes/gto/gto3.webp",
+            "imagenes/gto/gto4.webp",
+            "imagenes/gto/gto5.webp",
+            "imagenes/gto/gto6.webp",
+            "imagenes/gto/gto7.webp",
+            "imagenes/gto/gto8.webp",
+            "imagenes/gto/gto9.webp",
+            "imagenes/gto/gto10.webp",
+            "imagenes/gto/gto11.webp",
+            "imagenes/gto/gto12.webp"
+        ]
+    },
+    {
+        "titulo": "Guardianes de la Noche (Kimetsu no Yaiba)",
+        "demografia": "Shonen",
+        "guionista": "Koyoharu Gotouge",
+        "dibujante": "Koyoharu Gotouge",
+        "volumenes": "23 (cerrada)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1mwTC9WSElBdcBF2ls6Pung",
+        "imagen": "imagenes/kimetsu.webp",
+        "imagenes":[
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu1.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu2.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu3.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu4.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu5.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu6.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu7.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu8.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu9.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu10.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu11.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu12.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu13.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu14.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu15.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu16.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu17.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu18.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu19.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu20.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu21.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu22.webp",
+            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu23.webp"
+        ]
+    },
+    {
+        "titulo": "Haikyu!!",
+        "demografia": "Spokon",
+        "guionista": "Haruichi Furudate",
+        "dibujante": "Haruichi Furudate",
+        "volumenes": "45 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1kGeiIhT4DCOvo9W1AhJiqQ",
+        "imagen": "imagenes/haikyu.jpeg",
+        "imagenes":[
+            "imagenes/haikyu/haikyu1.webp",
+            "imagenes/haikyu/haikyu2.webp",
+            "imagenes/haikyu/haikyu3.webp",
+            "imagenes/haikyu/haikyu4.webp",
+            "imagenes/haikyu/haikyu5.webp",
+            "imagenes/haikyu/haikyu6.webp",
+            "imagenes/haikyu/haikyu7.webp",
+            "imagenes/haikyu/haikyu8.webp",
+            "imagenes/haikyu/haikyu9.webp",
+            "imagenes/haikyu/haikyu10.webp",
+            "imagenes/haikyu/haikyu11.webp",
+            "imagenes/haikyu/haikyu12.webp",
+            "imagenes/haikyu/haikyu13.webp",
+            "imagenes/haikyu/haikyu14.webp",
+            "imagenes/haikyu/haikyu15.webp",
+            "imagenes/haikyu/haikyu16.webp",
+            "imagenes/haikyu/haikyu17.webp",
+            "imagenes/haikyu/haikyu18.webp",
+            "imagenes/haikyu/haikyu19.webp",
+            "imagenes/haikyu/haikyu20.webp",
+            "imagenes/haikyu/haikyu21.webp",
+            "imagenes/haikyu/haikyu22.webp",
+            "imagenes/haikyu/haikyu23.webp",
+            "imagenes/haikyu/haikyu24.webp",
+            "imagenes/haikyu/haikyu25.webp",
+            "imagenes/haikyu/haikyu26.webp",
+            "imagenes/haikyu/haikyu27.webp",
+            "imagenes/haikyu/haikyu28.webp",
+            "imagenes/haikyu/haikyu29.webp",
+            "imagenes/haikyu/haikyu30.webp",
+            "imagenes/haikyu/haikyu31.webp",
+            "imagenes/haikyu/haikyu32.webp",
+            "imagenes/haikyu/haikyu33.webp",
+            "imagenes/haikyu/haikyu34.webp",
+            "imagenes/haikyu/haikyu35.webp",
+            "imagenes/haikyu/haikyu36.webp"
+        ]
+    },
+    {
+        "titulo": "Hajime no Ippo",
+        "demografia": "Spokon",
+        "guionista": "Joji Morikawa",
+        "dibujante": "Joji Morikawa",
+        "volumenes": "9 dobles (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1n55EyW1sHFzfdEXxOtEftA",
+        "imagen": "imagenes/hajimenoippo.jpeg",
+        "imagenes":[
+            "imagenes/hajimenoippo/hajimenoippo1.webp",
+            "imagenes/hajimenoippo/hajimenoippo2.webp",
+            "imagenes/hajimenoippo/hajimenoippo3.webp",
+            "imagenes/hajimenoippo/hajimenoippo4.webp",
+            "imagenes/hajimenoippo/hajimenoippo5.webp",
+            "imagenes/hajimenoippo/hajimenoippo6.webp",
+            "imagenes/hajimenoippo/hajimenoippo7.webp",
+            "imagenes/hajimenoippo/hajimenoippo8.webp",
+            "imagenes/hajimenoippo/hajimenoippo9.webp",
+            "imagenes/hajimenoippo/hajimenoippo10.webp",
+            "imagenes/hajimenoippo/hajimenoippo11.webp"
+        ]
+    },
+    {
+        "titulo": "Happy!",
+        "demografia": "Seinen",
+        "guionista": "Naoki Urasawa",
+        "dibujante": "Naoki Urasawa",
+        "volumenes": "15 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1J5y3xjBcWoQsejpVNZmk3w",
+        "imagen": "imagenes/happy.jpg",
+        "imagenes":[
+            "imagenes/happy/happy1.webp",
+            "imagenes/happy/happy2.webp",
+            "imagenes/happy/happy3.webp",
+            "imagenes/happy/happy4.webp",
+            "imagenes/happy/happy5.webp",
+            "imagenes/happy/happy6.webp",
+            "imagenes/happy/happy7.webp",
+            "imagenes/happy/happy8.webp",
+            "imagenes/happy/happy9.webp",
+            "imagenes/happy/happy10.webp",
+            "imagenes/happy/happy11.webp",
+            "imagenes/happy/happy12.webp",
+            "imagenes/happy/happy13.webp",
+            "imagenes/happy/happy14.webp",
+            "imagenes/happy/happy15.webp"
+        ]
+    },
+    {
         "titulo": "Hellsing - Edición Coleccionista",
         "demografia": "Seinen",
         "guionista": "Kohta Hirano",
@@ -559,6 +1034,98 @@
             "https://frenetyk.github.io/LaMansionDelManga/imagenes/hellsing/hellsing4.webp",
             "https://frenetyk.github.io/LaMansionDelManga/imagenes/hellsing/hellsing5.webp"
         ]
+    },
+    {
+        "titulo": "Homunculus",
+        "demografia": "Seinen",
+        "guionista": "Hideo Yamamoto",
+        "dibujante": "Hideo Yamamoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1mQNXCKyF_5VFifAfbq3cug",
+        "imagen": "imagenes/homunculus.jpg",
+        "imagenes":[
+            "imagenes/homunculus/homunculus1.webp",
+            "imagenes/homunculus/homunculus2.webp",
+            "imagenes/homunculus/homunculus3.webp",
+            "imagenes/homunculus/homunculus4.webp",
+            "imagenes/homunculus/homunculus5.webp",
+            "imagenes/homunculus/homunculus6.webp",
+            "imagenes/homunculus/homunculus7.webp",
+            "imagenes/homunculus/homunculus8.webp",
+            "imagenes/homunculus/homunculus9.webp",
+            "imagenes/homunculus/homunculus10.webp"
+        ]
+    },
+    {
+        "titulo": "Hungry Heart",
+        "demografia": "Spokon",
+        "guionista": "Yoichi Takahashi",
+        "dibujante": "Yoichi Takahashi",
+        "volumenes": "6 (cerrada)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1ZpqbfNgscVJKSr6jwp5s4Q",
+        "imagen": "imagenes/hungryheart.jpg",
+        "imagenes":[
+            "imagenes/hungryheart/hungryheart1.webp",
+            "imagenes/hungryheart/hungryheart2.webp",
+            "imagenes/hungryheart/hungryheart3.webp",
+            "imagenes/hungryheart/hungryheart4.webp",
+            "imagenes/hungryheart/hungryheart5.webp",
+            "imagenes/hungryheart/hungryheart6.webp"
+        ]
+    },
+    {
+        "titulo": "I's - Kanzenban",
+        "demografia": "Seinen",
+        "guionista": "Masakazu Katsura",
+        "dibujante": "Masakazu Katsura",
+        "volumenes": "12 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/18lJCd_LQ-o2lrPFp6T8KQg",
+        "imagen": "imagenes/is.jpg"
+    },
+    {
+        "titulo": "Ichi The Killer",
+        "demografia": "Seinen",
+        "guionista": "Hideo Yamamoto",
+        "dibujante": "Hideo Yamamoto",
+        "volumenes": "10 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1WRs6Ga7bx_2fN-SWa84o0A",
+        "imagen": "imagenes/ichithekiller.jpg"
+    },
+    {
+        "titulo": "Inazuma Eleven",
+        "demografia": "Shonen",
+        "guionista": "Tenya Yabuno",
+        "dibujante": "Tenya Yabuno",
+        "volumenes": "10 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1vuoRO3smsjrVdLh7TB-Oaw",
+        "imagen": "imagenes/inazumaeleven.webp",
+                "imagenes":[
+            "imagenes/inazumaeleven/inazumaeleven1.webp",
+            "imagenes/inazumaeleven/inazumaeleven2.webp",
+            "imagenes/inazumaeleven/inazumaeleven3.webp",
+            "imagenes/inazumaeleven/inazumaeleven4.webp",
+            "imagenes/inazumaeleven/inazumaeleven5.webp",
+            "imagenes/inazumaeleven/inazumaeleven6.webp",
+            "imagenes/inazumaeleven/inazumaeleven7.webp",
+            "imagenes/inazumaeleven/inazumaeleven8.webp",
+            "imagenes/inazumaeleven/inazumaeleven9.webp",
+            "imagenes/inazumaeleven/inazumaeleven10.webp"
+    ]
+    },
+    {
+        "titulo": "Inspector Kurokochi",
+        "demografia": "Seinen",
+        "guionista": "Takashi Nagasaki",
+        "dibujante": "Koji Kono",
+        "volumenes": "23 (cerrada)",
+        "editorial": "ECC Ediciones",
+        "enlace": "https://1024terabox.com/s/1T6Ng-OqolYnJ7L3BepPYKg",
+        "imagen": "imagenes/kurokochi.jpg"
     },
     {
         "titulo": "Trigun Maximum",
@@ -625,76 +1192,6 @@
             "https://frenetyk.github.io/LaMansionDelManga/imagenes/kitaro/kitaro9.webp",
             "https://frenetyk.github.io/LaMansionDelManga/imagenes/kitaro/kitaro10.webp",
             "https://frenetyk.github.io/LaMansionDelManga/imagenes/kitaro/kitaro11.webp"
-        ]
-    },
-    {
-        "titulo": "Guardianes de la Noche (Kimetsu no Yaiba)",
-        "demografia": "Shonen",
-        "guionista": "Koyoharu Gotouge",
-        "dibujante": "Koyoharu Gotouge",
-        "volumenes": "23 (cerrada)",
-        "editorial": "Norma Editorial",
-        "enlace": "https://1024terabox.com/s/1mwTC9WSElBdcBF2ls6Pung",
-        "imagen": "imagenes/kimetsu.webp",
-        "imagenes":[
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu1.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu2.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu3.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu4.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu5.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu6.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu7.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu8.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu9.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu10.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu11.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu12.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu13.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu14.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu15.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu16.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu17.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu18.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu19.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu20.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu21.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu22.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/kimetsu/kimetsu23.webp"
-        ]
-    },
-    {
-        "titulo": "Bleach - Edición Maximum",
-        "demografia": "Shonen",
-        "guionista": "Tite Kubo",
-        "dibujante": "Tite Kubo",
-        "volumenes": "37 dobles (cerrada)",
-        "editorial": "Panini Manga",
-        "enlace": "https://1024terabox.com/s/1qKpW1Iq3I-vZ0lTr_sgoMQ",
-        "imagen": "imagenes/bleachmaximum.webp",
-        "imagenes":[
-            "imagenes/bleachmaximum/bleachmaximum1.webp",
-            "imagenes/bleachmaximum/bleachmaximum2.webp",
-            "imagenes/bleachmaximum/bleachmaximum3.webp",
-            "imagenes/bleachmaximum/bleachmaximum4.webp",
-            "imagenes/bleachmaximum/bleachmaximum5.webp",
-            "imagenes/bleachmaximum/bleachmaximum6.webp",
-            "imagenes/bleachmaximum/bleachmaximum7.webp",
-            "imagenes/bleachmaximum/bleachmaximum8.webp",
-            "imagenes/bleachmaximum/bleachmaximum9.webp",
-            "imagenes/bleachmaximum/bleachmaximum10.webp",
-            "imagenes/bleachmaximum/bleachmaximum11.webp",
-            "imagenes/bleachmaximum/bleachmaximum12.webp",
-            "imagenes/bleachmaximum/bleachmaximum13.webp",
-            "imagenes/bleachmaximum/bleachmaximum14.webp",
-            "imagenes/bleachmaximum/bleachmaximum15.webp",
-            "imagenes/bleachmaximum/bleachmaximum16.webp",
-            "imagenes/bleachmaximum/bleachmaximum17.webp",
-            "imagenes/bleachmaximum/bleachmaximum18.webp",
-            "imagenes/bleachmaximum/bleachmaximum19.webp",
-            "imagenes/bleachmaximum/bleachmaximum20.webp",
-            "imagenes/bleachmaximum/bleachmaximum21.webp",
-            "imagenes/bleachmaximum/bleachmaximum22.webp",
-            "imagenes/bleachmaximum/bleachmaximum23.webp"
         ]
     },
     {
@@ -835,93 +1332,6 @@
     ]
     },
     {
-        "titulo": "Inazuma Eleven",
-        "demografia": "Shonen",
-        "guionista": "Tenya Yabuno",
-        "dibujante": "Tenya Yabuno",
-        "volumenes": "10 (cerrada)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/1vuoRO3smsjrVdLh7TB-Oaw",
-        "imagen": "imagenes/inazumaeleven.webp",
-                "imagenes":[
-            "imagenes/inazumaeleven/inazumaeleven1.webp",
-            "imagenes/inazumaeleven/inazumaeleven2.webp",
-            "imagenes/inazumaeleven/inazumaeleven3.webp",
-            "imagenes/inazumaeleven/inazumaeleven4.webp",
-            "imagenes/inazumaeleven/inazumaeleven5.webp",
-            "imagenes/inazumaeleven/inazumaeleven6.webp",
-            "imagenes/inazumaeleven/inazumaeleven7.webp",
-            "imagenes/inazumaeleven/inazumaeleven8.webp",
-            "imagenes/inazumaeleven/inazumaeleven9.webp",
-            "imagenes/inazumaeleven/inazumaeleven10.webp"
-    ]
-    },
-    {
-        "titulo": "Fire Force",
-        "demografia": "Shonen",
-        "guionista": "Atsushi Ohkubo",
-        "dibujante": "Atsushi Ohkubo",
-        "volumenes": "34 (cerrada)",
-        "editorial": "Panini Manga",
-        "enlace": "https://1024terabox.com/s/1boz0m6-9eq0oVuKwVSmotw",
-        "imagen": "imagenes/fireforce.webp",
-        "imagenes":[
-            "imagenes/fireforce/fireforce1.webp",
-            "imagenes/fireforce/fireforce2.webp",
-            "imagenes/fireforce/fireforce3.webp",
-            "imagenes/fireforce/fireforce4.webp",
-            "imagenes/fireforce/fireforce5.webp",
-            "imagenes/fireforce/fireforce6.webp",
-            "imagenes/fireforce/fireforce7.webp",
-            "imagenes/fireforce/fireforce8.webp",
-            "imagenes/fireforce/fireforce9.webp",
-            "imagenes/fireforce/fireforce10.webp",
-            "imagenes/fireforce/fireforce11.webp",
-            "imagenes/fireforce/fireforce12.webp",
-            "imagenes/fireforce/fireforce13.webp",
-            "imagenes/fireforce/fireforce14.webp",
-            "imagenes/fireforce/fireforce15.webp",
-            "imagenes/fireforce/fireforce16.webp",
-            "imagenes/fireforce/fireforce17.webp",
-            "imagenes/fireforce/fireforce18.webp",
-            "imagenes/fireforce/fireforce19.webp",
-            "imagenes/fireforce/fireforce20.webp",
-            "imagenes/fireforce/fireforce21.webp",
-            "imagenes/fireforce/fireforce22.webp",
-            "imagenes/fireforce/fireforce23.webp",
-            "imagenes/fireforce/fireforce24.webp",
-            "imagenes/fireforce/fireforce25.webp",
-            "imagenes/fireforce/fireforce26.webp",
-            "imagenes/fireforce/fireforce27.webp",
-            "imagenes/fireforce/fireforce28.webp",
-            "imagenes/fireforce/fireforce29.webp",
-            "imagenes/fireforce/fireforce30.webp",
-            "imagenes/fireforce/fireforce31.webp",
-            "imagenes/fireforce/fireforce32.webp",
-            "imagenes/fireforce/fireforce33.webp",
-            "imagenes/fireforce/fireforce34.webp"
-        ]
-    },
-    {
-        "titulo": "Farewell My Dear Cramer",
-        "demografia": "Spokon",
-        "guionista": "Naoshi Arakawa",
-        "dibujante": "Naoshi Arakawa",
-        "volumenes": "7 dobles (cerrada)",
-        "editorial": "Distrito Manga",
-        "enlace": "https://1024terabox.com/s/1Hf0hQlN_QuPZABjecDsuOA",
-        "imagen": "imagenes/farewellmydearcramer.webp",
-        "imagenes":[
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell1.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell2.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell3.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell4.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell5.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell6.webp",
-            "https://frenetyk.github.io/LaMansionDelManga/imagenes/farewellmydearcramer/farewell7.webp"
-        ]
-    },
-    {
         "titulo": "Real",
         "demografia": "Spokon",
         "guionista": "Takehiko Inoue",
@@ -1017,47 +1427,6 @@
         ]
     },
     {
-        "titulo": "Frieren",
-        "demografia": "Shonen",
-        "guionista": "Kanehiko Yamada",
-        "dibujante": "Tsukasa Abe",
-        "volumenes": "9 (abierta)",
-        "editorial": "Norma Editorial",
-        "enlace": "https://1024terabox.com/s/1A4H0gWD1ZVT2JtJy1ljS8Q",
-        "imagen": "imagenes/frieren.jpg",
-        "imagenes":[
-            "imagenes/frieren/frieren1.webp",
-            "imagenes/frieren/frieren2.webp",
-            "imagenes/frieren/frieren3.webp",
-            "imagenes/frieren/frieren4.webp",
-            "imagenes/frieren/frieren5.webp",
-            "imagenes/frieren/frieren6.webp",
-            "imagenes/frieren/frieren7.webp",
-            "imagenes/frieren/frieren8.webp",
-            "imagenes/frieren/frieren9.webp",
-            "imagenes/frieren/frieren10.webp",
-            "imagenes/frieren/frieren11.webp",
-            "imagenes/frieren/frieren12.webp",
-            "imagenes/frieren/frieren13.webp"
-        ]
-    },
-    {
-        "titulo": "Flores de Piedra",
-        "demografia": "Shonen",
-        "guionista": "Hisashi Sakaguchi",
-        "dibujante": "Hisashi Sakaguchi",
-        "volumenes": "3 (abierta)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/10Lf7pTk9rGuom9yJlJLSZg",
-        "imagen": "imagenes/floresdepiedra.jpg",
-        "imagenes":[
-            "imagenes/floresdepiedra/floresdepiedra1.webp",
-            "imagenes/floresdepiedra/floresdepiedra2.webp",
-            "imagenes/floresdepiedra/floresdepiedra3.webp",
-            "imagenes/floresdepiedra/floresdepiedra4.webp"
-        ]
-    },
-    {
         "titulo": "Lamu. Urusei Yatsura",
         "demografia": "Shonen",
         "guionista": "Rumiko Takahashi",
@@ -1095,16 +1464,6 @@
         "imagen": "imagenes/piesdescalzos.jpg"
     },
     {
-        "titulo": "Golden Kamuy",
-        "demografia": "Seinen",
-        "guionista": "Satoru Noda",
-        "dibujante": "Satoru Noda",
-        "volumenes": "31 (cerrada)",
-        "editorial": "Milky Way",
-        "enlace": "https://1024terabox.com/s/1uhdj0ktT_GJz1aOZyFYS4Q",
-        "imagen": "imagenes/goldenkamuy.jpg"
-    },
-    {
         "titulo": "La Balada del Viento y los Árboles",
         "demografia": "Shojo",
         "guionista": "Keiko Takemiya",
@@ -1123,36 +1482,6 @@
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1BA60AG14p_mIQ5SIqkD4dw",
         "imagen": "imagenes/laventanadeorfeo.jpg"
-    },
-    {
-        "titulo": "I's - Kanzenban",
-        "demografia": "Seinen",
-        "guionista": "Masakazu Katsura",
-        "dibujante": "Masakazu Katsura",
-        "volumenes": "12 (cerrada)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/18lJCd_LQ-o2lrPFp6T8KQg",
-        "imagen": "imagenes/is.jpg"
-    },
-    {
-        "titulo": "Inspector Kurokochi",
-        "demografia": "Seinen",
-        "guionista": "Takashi Nagasaki",
-        "dibujante": "Koji Kono",
-        "volumenes": "23 (cerrada)",
-        "editorial": "ECC Ediciones",
-        "enlace": "https://1024terabox.com/s/1T6Ng-OqolYnJ7L3BepPYKg",
-        "imagen": "imagenes/kurokochi.jpg"
-    },
-    {
-        "titulo": "GTO - Great Teacher Onizuka",
-        "demografia": "Shonen",
-        "guionista": "Toru Fujisawa",
-        "dibujante": "Toru Fujisawa",
-        "volumenes": "12 (cerrada)",
-        "editorial": "Ivrea",
-        "enlace": "https://1024terabox.com/s/1zW9nnh53nPmRR5FtD6sfcQ",
-        "imagen": "imagenes/gto.jpg"
     },
     {
         "titulo": "Santuario",
@@ -1175,26 +1504,6 @@
         "imagen": "imagenes/saintseiyafinaledition.jpg"
     },
     {
-        "titulo": "Ichi The Killer",
-        "demografia": "Seinen",
-        "guionista": "Hideo Yamamoto",
-        "dibujante": "Hideo Yamamoto",
-        "volumenes": "10 (cerrada)",
-        "editorial": "ECC Ediciones",
-        "enlace": "https://1024terabox.com/s/1WRs6Ga7bx_2fN-SWa84o0A",
-        "imagen": "imagenes/ichithekiller.jpg"
-    },
-    {
-        "titulo": "Homunculus",
-        "demografia": "Seinen",
-        "guionista": "Hideo Yamamoto",
-        "dibujante": "Hideo Yamamoto",
-        "volumenes": "10 (cerrada)",
-        "editorial": "Ivrea",
-        "enlace": "https://1024terabox.com/s/1mQNXCKyF_5VFifAfbq3cug",
-        "imagen": "imagenes/homunculus.jpg"
-    },
-    {
         "titulo": "Musashi",
         "demografia": "Shonen",
         "guionista": "Shotaro Ishinomori",
@@ -1213,16 +1522,6 @@
         "editorial": "Planeta Cómic",
         "enlace": "https://1024terabox.com/s/1QXlOLPwH6kTRaaXL8tBJbg",
         "imagen": "imagenes/k.jpg"
-    },
-    {
-        "titulo": "Gintama",
-        "demografia": "Shonen",
-        "guionista": "Hideaki Sorachi",
-        "dibujante": "Hideaki Sorachi",
-        "volumenes": "26 triples (abierta)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/1vO-3s7rVC1EBZixcJQ5V4A",
-        "imagen": "imagenes/gintama.jpg"
     },
     {
         "titulo": "Inuyasha - Kanzenban)",
@@ -1313,36 +1612,6 @@
         "editorial": "Norma Editorial",
         "enlace": "https://1024terabox.com/s/1IQvPpww60ctzpkEtjUpaeA",
         "imagen": "imagenes/jujutsukaisen.jpg"
-    },
-    {
-        "titulo": "Hungry Heart",
-        "demografia": "Spokon",
-        "guionista": "Yoichi Takahashi",
-        "dibujante": "Yoichi Takahashi",
-        "volumenes": "6 (cerrada)",
-        "editorial": "Ivrea",
-        "enlace": "https://1024terabox.com/s/1ZpqbfNgscVJKSr6jwp5s4Q",
-        "imagen": "imagenes/hungryheart.jpg"
-    },
-    {
-        "titulo": "Happy!",
-        "demografia": "Seinen",
-        "guionista": "Naoki Urasawa",
-        "dibujante": "Naoki Urasawa",
-        "volumenes": "15 (cerrada)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/1J5y3xjBcWoQsejpVNZmk3w",
-        "imagen": "imagenes/happy.jpg"
-    },
-    {
-        "titulo": "Gokurakugai",
-        "demografia": "Shonen",
-        "guionista": "Yuto Sano",
-        "dibujante": "Yuto Sano",
-        "volumenes": "1 (abierta)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/16i4TwKDKYPR2ZQNy8yhEDA",
-        "imagen": "imagenes/gokurakugai.jpg"
     },
     {
         "titulo": "Vagabond",
@@ -1453,26 +1722,6 @@
         "editorial": "Glénat",
         "enlace": "https://1024terabox.com/s/1uI0o8nXeaSpj9mIkBL6xNA",
         "imagen": "imagenes/karekano.jpg"
-    },
-    {
-        "titulo": "Hajime no Ippo",
-        "demografia": "Spokon",
-        "guionista": "Joji Morikawa",
-        "dibujante": "Joji Morikawa",
-        "volumenes": "9 dobles (abierta)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/1n55EyW1sHFzfdEXxOtEftA",
-        "imagen": "imagenes/hajimenoippo.jpeg"
-    },
-    {
-        "titulo": "Haikyu!!",
-        "demografia": "Spokon",
-        "guionista": "Haruichi Furudate",
-        "dibujante": "Haruichi Furudate",
-        "volumenes": "45 (cerrada)",
-        "editorial": "Planeta Cómic",
-        "enlace": "https://1024terabox.com/s/1kGeiIhT4DCOvo9W1AhJiqQ",
-        "imagen": "imagenes/haikyu.jpeg"
     },
     {
         "titulo": "The Boxer",
