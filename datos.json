@@ -355,6 +355,22 @@
         ]
     },
     {
+        "titulo": "Buscadores de cadáveres",
+        "demografia": "Seinen",
+        "guionista": "Housui Yamazaki",
+        "dibujante": "Housui Yamazaki",
+        "volumenes": "4 (cerrada)",
+        "editorial": "Arechi Manga",
+        "enlace": "https://1024terabox.com/s/1gt9hhHxnANRnjyKcQAAQbg",
+        "imagen": "imagenes/buscadoresdecadaveres.jpg",
+        "imagenes":[
+            "imagenes/buscadoresdecadaveres/buscadoresdecadaveres1.webp",
+            "imagenes/buscadoresdecadaveres/buscadoresdecadaveres2.webp",
+            "imagenes/buscadoresdecadaveres/buscadoresdecadaveres3.webp",
+            "imagenes/buscadoresdecadaveres/buscadoresdecadaveres4.webp"
+        ]
+    },
+    {
         "titulo": "Capitán Harlock - Edición Integral",
         "demografia": "Seinen",
         "guionista": "Leiji Matsumoto",
@@ -436,6 +452,39 @@
             "imagenes/captaintsubasa/captaintsubasa35.webp",
             "imagenes/captaintsubasa/captaintsubasa36.webp",
             "imagenes/captaintsubasa/captaintsubasa37.webp"
+        ]
+    },
+    {
+        "titulo": "Captain Tsubasa (Planeta)",
+        "demografia": "Spokon",
+        "guionista": "Yoichi Takahashi",
+        "dibujante": "Yoichi Takahashi",
+        "volumenes": "31 (cerrada)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/19zjfOVq_aPuerSS3lvV3DQ",
+        "imagen": "imagenes/captaintsubasa.jpg",
+        "imagenes":[
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta1.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta2.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta3.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta4.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta5.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta6.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta7.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta8.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta9.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta10.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta11.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta12.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta13.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta14.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta15.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta16.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta17.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta18.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta19.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta20.webp",
+            "imagenes/captaintsubasaplaneta/captaintsubasaplaneta21.webp"
         ]
     },
     {
@@ -1459,6 +1508,29 @@
         ]
     },
     {
+        "titulo": "One Piece - 3 en 1",
+        "demografia": "Shonen",
+        "guionista": "Eichiro Oda",
+        "dibujante": "Eichiro Oda",
+        "volumenes": "9 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1b_68pksrUkO3csPLlBMMuA",
+        "imagen": "imagenes/onepiece3en1.jpg",
+        "imagenes":[
+            "imagenes/onepiece3en1/onepiece3en11.webp",
+            "imagenes/onepiece3en1/onepiece3en12.webp",
+            "imagenes/onepiece3en1/onepiece3en13.webp",
+            "imagenes/onepiece3en1/onepiece3en14.webp",
+            "imagenes/onepiece3en1/onepiece3en15.webp",
+            "imagenes/onepiece3en1/onepiece3en16.webp",
+            "imagenes/onepiece3en1/onepiece3en17.webp",
+            "imagenes/onepiece3en1/onepiece3en18.webp",
+            "imagenes/onepiece3en1/onepiece3en19.webp",
+            "imagenes/onepiece3en1/onepiece3en110.webp",
+            "imagenes/onepiece3en1/onepiece3en111.webp"
+        ]
+    },
+    {
         "titulo": "K",
         "demografia": "Seinen",
         "guionista": "Shiro Tosaki",
@@ -2111,6 +2183,35 @@
             "imagenes/saintseiyafinaledition/saintseiyafinaledition18.webp",
             "imagenes/saintseiyafinaledition/saintseiyafinaledition19.webp",
             "imagenes/saintseiyafinaledition/saintseiyafinaledition20.webp"
+        ]
+    },
+    {
+        "titulo": "Sakamoto Days",
+        "demografia": "Shonen",
+        "guionista": "Yuto Suzuki",
+        "dibujante": "Yuto Suzuki",
+        "volumenes": "17 (abierta)",
+        "editorial": "Ivrea",
+        "enlace": "https://1024terabox.com/s/1YqDh42s_F_NyMo_lWh01Zw",
+        "imagen": "imagenes/sakamotodays.jpg",
+        "imagenes":[
+            "imagenes/sakamotodays/sakamotodays1.webp",
+            "imagenes/sakamotodays/sakamotodays2.webp",
+            "imagenes/sakamotodays/sakamotodays3.webp",
+            "imagenes/sakamotodays/sakamotodays4.webp",
+            "imagenes/sakamotodays/sakamotodays5.webp",
+            "imagenes/sakamotodays/sakamotodays6.webp",
+            "imagenes/sakamotodays/sakamotodays7.webp",
+            "imagenes/sakamotodays/sakamotodays8.webp",
+            "imagenes/sakamotodays/sakamotodays9.webp",
+            "imagenes/sakamotodays/sakamotodays10.webp",
+            "imagenes/sakamotodays/sakamotodays11.webp",
+            "imagenes/sakamotodays/sakamotodays12.webp",
+            "imagenes/sakamotodays/sakamotodays13.webp",
+            "imagenes/sakamotodays/sakamotodays14.webp",
+            "imagenes/sakamotodays/sakamotodays15.webp",
+            "imagenes/sakamotodays/sakamotodays16.webp",
+            "imagenes/sakamotodays/sakamotodays17.webp"
         ]
     },
     {
