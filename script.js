@@ -103,7 +103,7 @@ function renderMangas() {
                 <p><strong>Editorial:</strong> ${manga.editorial}</p>
                 <div class="botones-container">
                     <a href="${manga.enlace}" target="_blank" class="enlace-btn">Terabox</a>
-                    <button class="ver-descripcion" data-titulo="${manga.titulo}">Ver argumento</button>
+                    <button class="ver-descripcion" data-titulo="${manga.titulo}">Sinopsis</button>
                 </div>
             </div>
         `;

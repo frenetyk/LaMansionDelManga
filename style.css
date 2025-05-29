@@ -290,7 +290,7 @@ h1 {
   position: absolute;
   right: 15px;
   top: 15px;
-  font-size: 24px;
+  font-size: 34px;
   cursor: pointer;
   color: #777;
   transition: color 0.3s;
@@ -319,24 +319,17 @@ h1 {
   color: white;
 }
 
-/* Contenedor de botones */
-.botones-container {
-    display: flex;
-    gap: 10px;
-    margin-top: 15px;
-}
-
 /* Estilos base para ambos botones */
 .botones-container .enlace-btn,
 .botones-container .btn-descripcion {
-    flex: 1; /* Hace que ambos botones ocupen el mismo espacio */
+    width: calc(50% - 5px); /* <-- ¡Añade o modifica esta línea! */
     padding: 10px 15px;
     text-align: center;
     border-radius: 6px;
-    width: calc(50% - 5px);
     font-size: 0.85rem;
     font-weight: 500;
     transition: all 0.3s ease;
+    /* ELIMINA ESTA LÍNEA: white-space: nowrap; */
 }
 
 .botones-container .btn-descripcion:hover,
@@ -346,20 +339,8 @@ h1 {
     transform: translateY(-2px);
 }
 
-/* Asegurar mismo tamaño en móviles */
-@media (max-width: 480px) {
-    .botones-container {
-        flex-direction: column;
-    }
-    
-    .botones-container{
-        width: calc(50% - 5px);;
-    }
-}
-
 /* Ajustes específicos para el botón de Descripción */
-.botones-container .btn-descripcion,
-.botones-container .enlace-btn {
+.botones-container .btn-descripcion {
     background-color: var(--secondary);
     color: var(--dark);
     border: none;
@@ -369,3 +350,71 @@ h1 {
     /* Añade la siguiente línea: */
     justify-content: center;
 }
+
+/* Definir una variable para el padding si quieres más flexibilidad */
+:root {
+    --primary: #ff6b6b;
+    --secondary: #f7d794;
+    --dark: #2d3436;
+    --light: #f5f5f5;
+    --btn-padding: 10px 15px; /* Nuevo: padding común para los botones */
+    --btn-font-size: 0.85rem; /* Nuevo: tamaño de fuente común */
+    --btn-border-radius: 6px; /* Nuevo: border-radius común */
+}
+
+/* Estilos comunes para AMBOS botones */
+.manga-btn {
+  display: inline-flex; /* Usar flexbox para centrar contenido si añades iconos */
+  justify-content: center;
+  align-items: center;
+  gap: 5px; /* Espacio entre texto e icono */
+  margin-top: 10px;
+  padding: var(--btn-padding);
+  background-color: var(--secondary);
+  color: var(--dark);
+  border-radius: var(--btn-border-radius);
+  font-size: var(--btn-font-size);
+  cursor: pointer;
+  transition: all 0.3s ease; /* Mejorar la transición */
+  text-decoration: none; /* Importante para el <a>, elimina el subrayado */
+  font-weight: 600; /* Si quieres que el texto sea negrita */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border: none; /* Asegura que no haya borde predeterminado para el button */
+}
+
+.manga-btn:hover {
+  background-color: var(--primary);
+  color: white;
+  transform: translateY(-2px); /* Pequeño efecto al pasar el ratón */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Estilos específicos si los hubiera (ej. solo para el botón de descripción) */
+.btn-descripcion {
+  /* No necesita estilos específicos si el .manga-btn ya lo cubre todo */
+}
+
+/* Estilos específicos si los hubiera (ej. solo para el botón de enlace) */
+.enlace-btn {
+  /* No necesita estilos específicos si el .manga-btn ya lo cubre todo */
+}
+
+/* Asegurar que dentro del contenedor, ocupen la mitad cada uno */
+.botones-container {
+    display: flex; /* Para que los botones se coloquen uno al lado del otro */
+    justify-content: space-between; /* Para que haya espacio entre ellos */
+    gap: 10px; /* Espacio entre los botones */
+    margin-top: 15px; /* Espacio superior para el contenedor de botones */
+}
+
+.botones-container .manga-btn {
+    width: calc(50% - 5px); /* Cada botón ocupa la mitad menos la mitad del gap */
+    flex-grow: 1; /* Para que crezcan y ocupen el espacio disponible */
+}
+
+/* Puedes eliminar estas reglas CSS antiguas que se duplicarían o ya no serían necesarias: */
+/*
+.ver-descripcion, .enlace-btn { ... }
+.ver-descripcion:hover, .enlace-btn:hover { ... }
+.botones-container .enlace-btn, .botones-container .btn-descripcion { ... }
+*/
