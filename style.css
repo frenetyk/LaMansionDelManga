@@ -334,3 +334,65 @@ h1 {
   color: white;
 }
 
+/* Contenedor de botones */
+.botones-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+/* Estilos base para ambos botones */
+.botones-container .enlace-btn,
+.botones-container .btn-descripcion {
+    flex: 1; /* Hace que ambos botones ocupen el mismo espacio */
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+/* Ajustes específicos para el botón de Terabox */
+.botones-container .enlace-btn {
+    background-color: var(--primary);
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+
+.botones-container .enlace-btn:hover {
+    background-color: #e05555;
+    transform: translateY(-2px);
+}
+
+/* Ajustes específicos para el botón de Descripción */
+.botones-container .btn-descripcion {
+    background-color: var(--secondary);
+    color: var(--dark);
+    border: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.botones-container .btn-descripcion:hover {
+    background-color: var(--primary);
+    color: white;
+    transform: translateY(-2px);
+}
+
+/* Asegurar mismo tamaño en móviles */
+@media (max-width: 480px) {
+    .botones-container {
+        flex-direction: column;
+    }
+    
+    .botones-container .enlace-btn,
+    .botones-container .btn-descripcion {
+        width: 100%;
+    }
+}
