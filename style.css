@@ -423,3 +423,22 @@ h1 {
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
+/* --- Media Query para Dispositivos Móviles --- */
+@media (max-width: 600px) { /* Los estilos dentro de este bloque se aplicarán en pantallas de 600px o menos */
+
+    .botones-container {
+        flex-direction: column; /* ¡IMPORTANTE! Apila los elementos verticalmente */
+        align-items: center;   /* Centra los botones apilados horizontalmente en el contenedor */
+        /* justify-content: center; ya lo tienes en la regla general, lo que está bien */
+        gap: 10px; /* Mantiene el espacio vertical entre los botones */
+    }
+
+    .botones-container .enlace-btn,
+    .botones-container .btn-descripcion {
+        width: 100%; /* Haz que los botones ocupen todo el ancho disponible */
+        max-width: 280px; /* Opcional: Limita el ancho máximo para que no sean demasiado anchos en tabletas pequeñas. Ajusta este valor si lo necesitas. */
+        flex-basis: auto; /* Restablece flex-basis para que width: 100% tome precedencia */
+        min-width: 0; /* Permite que el botón se encoja si el contenedor es muy pequeño */
+        margin: 0; /* Asegura que no haya márgenes no deseados */
+    }
+}
