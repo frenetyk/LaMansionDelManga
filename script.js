@@ -76,36 +76,75 @@ document.addEventListener('DOMContentLoaded', async () => {
         renderMangas();
     }
 
-    function renderMangas() {
-        mangasContainer.innerHTML = '';
+function renderMangas() {
+    mangasContainer.innerHTML = '';
 
-        const startIndex = (currentPage - 1) * itemsPerPage;
-        const paginatedMangas = currentMangas.slice(startIndex, startIndex + itemsPerPage);
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    const paginatedMangas = currentMangas.slice(startIndex, startIndex + itemsPerPage);
 
-        if (paginatedMangas.length === 0) {
-            mangasContainer.innerHTML = '<p class="no-results">No se encontraron mangas</p>';
-            document.getElementById('pagination').innerHTML = '';
-            return;
-        }
-
-        paginatedMangas.forEach(manga => {
-            const portada = manga.imagenes && manga.imagenes.length > 0 ? manga.imagenes[0] : 'imagenes/default.jpg';
-            mangasContainer.innerHTML += `
-                <div class="manga-card">
-                    <img src="${portada}" alt="${manga.titulo}" class="manga-image">
-                    <h3 class="manga-title" data-titulo="${manga.titulo}">${manga.titulo}</h3>
-                    <p><strong>Guionista:</strong> ${manga.guionista}</p>
-                    <p><strong>Dibujante:</strong> ${manga.dibujante}</p>
-                    <p><strong>Demografía:</strong> ${manga.demografia}</p>
-                    <p><strong>Volúmenes:</strong> ${manga.volumenes}</p>
-                    <p><strong>Editorial:</strong> ${manga.editorial}</p>
-                    <a href="${manga.enlace}" target="_blank" class="enlace-btn">Descargar</a>
-                </div>
-            `;
-        });
-
-        renderPagination();
+    if (paginatedMangas.length === 0) {
+        mangasContainer.innerHTML = '<p class="no-results">No se encontraron mangas</p>';
+        document.getElementById('pagination').innerHTML = '';
+        return;
     }
+
+    paginatedMangas.forEach(manga => {
+        const portada = manga.imagenes && manga.imagenes.length > 0 ? manga.imagenes[0] : 'imagenes/default.jpg';
+        const descripcion = manga.descripcion || "Descripción no disponible.";
+        
+        mangasContainer.innerHTML += `
+            <div class="manga-card">
+                <img src="${portada}" alt="${manga.titulo}" class="manga-image">
+                <h3 class="manga-title" data-titulo="${manga.titulo}">${manga.titulo}</h3>
+                <p><strong>Guionista:</strong> ${manga.guionista}</p>
+                <p><strong>Dibujante:</strong> ${manga.dibujante}</p>
+                <p><strong>Demografía:</strong> ${manga.demografia}</p>
+                <p><strong>Volúmenes:</strong> ${manga.volumenes}</p>
+                <p><strong>Editorial:</strong> ${manga.editorial}</p>
+                <div class="botones-container">
+                    <a href="${manga.enlace}" target="_blank" class="enlace-btn">Terabox</a>
+                    <button class="ver-descripcion" data-titulo="${manga.titulo}">Ver Descripción</button>
+                </div>
+            </div>
+        `;
+    });
+
+    // Añade el evento para el botón de descripción
+    document.querySelectorAll('.ver-descripcion').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            const titulo = e.target.dataset.titulo;
+            const manga = allMangas.find(m => m.titulo === titulo);
+            if (manga) {
+                mostrarDescripcion(manga);
+            }
+        });
+    });
+
+    renderPagination();
+}
+
+// Nueva función para mostrar la descripción
+function mostrarDescripcion(manga) {
+    const modal = document.getElementById('descripcionModal');
+    const titulo = document.getElementById('descripcionTitulo');
+    const texto = document.getElementById('descripcionTexto');
+    const closeBtn = document.querySelector('.descripcion-close');
+    
+    titulo.textContent = manga.titulo;
+    texto.textContent = manga.descripcion || "Descripción no disponible.";
+    
+    modal.style.display = 'flex';
+    
+    closeBtn.onclick = () => {
+        modal.style.display = 'none';
+    }
+    
+    window.onclick = (e) => {
+        if (e.target === modal) {
+            modal.style.display = 'none';
+        }
+    }
+}
 
     function renderPagination() {
         const totalPages = Math.ceil(currentMangas.length / itemsPerPage);
