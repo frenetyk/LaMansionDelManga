@@ -351,70 +351,75 @@ h1 {
     justify-content: center;
 }
 
-/* Definir una variable para el padding si quieres más flexibilidad */
-:root {
-    --primary: #ff6b6b;
-    --secondary: #f7d794;
-    --dark: #2d3436;
-    --light: #f5f5f5;
-    --btn-padding: 10px 15px; /* Nuevo: padding común para los botones */
-    --btn-font-size: 0.85rem; /* Nuevo: tamaño de fuente común */
-    --btn-border-radius: 6px; /* Nuevo: border-radius común */
-}
 
-/* Estilos comunes para AMBOS botones */
-.manga-btn {
-  display: inline-flex; /* Usar flexbox para centrar contenido si añades iconos */
-  justify-content: center;
-  align-items: center;
-  gap: 5px; /* Espacio entre texto e icono */
-  margin-top: 10px;
-  padding: var(--btn-padding);
+
+
+
+
+
+/* Botón de ver descripción y enlace (Estilos base, algunos serán sobrescritos por .botones-container) */
+.ver-descripcion, .enlace-btn {
+  display: inline-block; /* Mantener como inline-block o quitar si solo se usan dentro de flex */
+  /* margin-top: 10px; -- REMOVER O COMENTAR esta línea si el contenedor maneja el espaciado */
+  padding: 6px 12px; /* Este padding es más general, el del contenedor será más específico */
   background-color: var(--secondary);
   color: var(--dark);
-  border-radius: var(--btn-border-radius);
-  font-size: var(--btn-font-size);
+  border-radius: 4px;
+  font-size: 0.85rem;
   cursor: pointer;
-  transition: all 0.3s ease; /* Mejorar la transición */
-  text-decoration: none; /* Importante para el <a>, elimina el subrayado */
-  font-weight: 600; /* Si quieres que el texto sea negrita */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  border: none; /* Asegura que no haya borde predeterminado para el button */
+  transition: all 0.3s ease; /* Asegura una transición suave */
+  text-decoration: none; /* Asegura que los enlaces no tengan subrayado */
+  box-sizing: border-box; /* Fundamental para que padding y border no aumenten el tamaño */
 }
 
-.manga-btn:hover {
+.ver-descripcion:hover, .enlace-btn:hover {
   background-color: var(--primary);
   color: white;
   transform: translateY(-2px); /* Pequeño efecto al pasar el ratón */
   box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
-
-/* Estilos específicos si los hubiera (ej. solo para el botón de descripción) */
-.btn-descripcion {
-  /* No necesita estilos específicos si el .manga-btn ya lo cubre todo */
-}
-
-/* Estilos específicos si los hubiera (ej. solo para el botón de enlace) */
-.enlace-btn {
-  /* No necesita estilos específicos si el .manga-btn ya lo cubre todo */
-}
-
 /* Asegurar que dentro del contenedor, ocupen la mitad cada uno */
 .botones-container {
     display: flex; /* Para que los botones se coloquen uno al lado del otro */
-    justify-content: space-between; /* Para que haya espacio entre ellos */
+    justify-content: center; /* Centra los botones si no llenan el 100% o si se envuelven */
     gap: 10px; /* Espacio entre los botones */
     margin-top: 15px; /* Espacio superior para el contenedor de botones */
+    flex-wrap: wrap; /* ¡IMPORTANTE! Permite que los botones se envuelvan a la siguiente línea en pantallas pequeñas */
+    align-items: stretch; /* Asegura que los elementos se estiren para tener la misma altura si su contenido lo permite */
+}
+/* Estilos para los botones "Terabox" y "Sinopsis" dentro del contenedor */
+.botones-container .enlace-btn,
+.botones-container .btn-descripcion {
+    /* Para el mismo tamaño y alineación */
+    flex-grow: 1; /* Permite que los botones crezcan para llenar el espacio disponible */
+    flex-basis: calc(50% - 5px); /* Define el tamaño base (casi la mitad del contenedor menos el gap) */
+    width: calc(50% - 5px); /* Fallback y redundancia para compatibilidad */
+    min-width: 140px; /* Evita que los botones se hagan demasiado pequeños en pantallas muy estrechas */
+    max-width: calc(50% - 5px); /* Asegura que no crezcan más allá de la mitad */
+
+    /* Para el mismo estilo (color, padding, fuente) */
+    padding: 10px 15px; /* Padding uniforme para ambos botones */
+    text-align: center; /* Centra el texto */
+    border-radius: 6px; /* Borde uniforme para ambos */
+    font-size: 0.85rem;
+    font-weight: 600; /* Hace el texto un poco más audaz */
+    text-decoration: none;
+    color: var(--dark); /* Color de texto uniforme */
+    background-color: var(--secondary); /* Color de fondo uniforme */
+    transition: all 0.3s ease; /* Transición uniforme para hover */
+    box-sizing: border-box; /* Ya definido globalmente, pero bueno asegurarlo aquí */
+
+    /* Centrar contenido (texto) dentro de los botones */
+    display: flex;
+    align-items: center; /* Centrado vertical */
+    justify-content: center; /* Centrado horizontal */
 }
 
-.botones-container .manga-btn {
-    width: calc(50% - 5px); /* Cada botón ocupa la mitad menos la mitad del gap */
-    flex-grow: 1; /* Para que crezcan y ocupen el espacio disponible */
+/* Hover para ambos botones dentro del contenedor (unificado) */
+.botones-container .enlace-btn:hover,
+.botones-container .btn-descripcion:hover {
+    background-color: var(--primary); /* Color de hover unificado */
+    color: white; /* Color de texto en hover unificado */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
-
-/* Puedes eliminar estas reglas CSS antiguas que se duplicarían o ya no serían necesarias: */
-/*
-.ver-descripcion, .enlace-btn { ... }
-.ver-descripcion:hover, .enlace-btn:hover { ... }
-.botones-container .enlace-btn, .botones-container .btn-descripcion { ... }
-*/
