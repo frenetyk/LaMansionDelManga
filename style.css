@@ -182,22 +182,6 @@ h1 {
     font-weight: bold;
 }
 
-.enlace-btn {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 8px 15px;
-    background-color: var(--primary);
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    transition: all 0.3s;
-}
-
-.enlace-btn:hover {
-    background-color: #e05555;
-    transform: translateY(-2px);
-}
-
 /* Asegúrate que los select tengan el mismo estilo */
 #estadoFilter {
     padding: 10px;
@@ -329,7 +313,8 @@ h1 {
   transition: all 0.3s;
 }
 
-.ver-descripcion:hover {
+.ver-descripcion:hover
+{
   background-color: var(--primary);
   color: white;
 }
@@ -354,21 +339,9 @@ h1 {
     white-space: nowrap;
 }
 
-/* Ajustes específicos para el botón de Terabox */
-.botones-container .enlace-btn {
-    background-color: var(--primary);
-    color: white;
-    text-decoration: none;
-    border: none;
-}
-
-.botones-container .enlace-btn:hover {
-    background-color: #e05555;
-    transform: translateY(-2px);
-}
-
 /* Ajustes específicos para el botón de Descripción */
-.botones-container .btn-descripcion {
+.botones-container .btn-descripcion,
+.botones-container .enlace-btn {
     background-color: var(--secondary);
     color: var(--dark);
     border: none;
@@ -379,7 +352,8 @@ h1 {
     gap: 5px;
 }
 
-.botones-container .btn-descripcion:hover {
+.botones-container .btn-descripcion:hover,
+.botones-container .enlace-btn {
     background-color: var(--primary);
     color: white;
     transform: translateY(-2px);
@@ -397,3 +371,49 @@ h1 {
     }
 }
 
+/* Contenedor de botones */
+.botones-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+/* Estilos base para ambos botones */
+.botones-container .enlace-btn,
+.botones-container .btn-descripcion {
+    flex: 1; /* Hace que ambos botones ocupen el mismo espacio */
+    padding: 10px 15px;
+    text-align: center; /* Esto ya estaba, pero lo reconfirmo */
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    /* Eliminar: white-space: nowrap; */ /* ¡Quita esta línea! */
+}
+
+/* Ajustes específicos para el botón de Terabox */
+.botones-container .enlace-btn {
+    background-color: var(--primary);
+    color: white;
+    text-decoration: none;
+    border: none;
+    display: inline-flex; /* Añadir */
+    align-items: center; /* Añadir */
+    justify-content: center; /* Añadir */
+}
+
+.botones-container .enlace-btn:hover {
+    background-color: #e05555;
+    transform: translateY(-2px);
+}
+
+/* Ajustes específicos para el botón de Descripción */
+.botones-container .btn-descripcion {
+    background-color: var(--secondary);
+    color: var(--dark);
+    border: none;
+    cursor: pointer;
+    display: inline-flex; /* Esto ya estaba */
+    align-items: center; /* Esto ya estaba */
+    justify-content: center; /* Añadir */
+}
