@@ -90,7 +90,7 @@ function renderMangas() {
 
     paginatedMangas.forEach(manga => {
         const portada = manga.imagenes && manga.imagenes.length > 0 ? manga.imagenes[0] : 'imagenes/default.jpg';
-        const descripcion = manga.descripcion || "Descripción no disponible.";
+        const descripcion = manga.descripcion || "Argumento no disponible.";
         
         mangasContainer.innerHTML += `
             <div class="manga-card">
@@ -103,7 +103,7 @@ function renderMangas() {
                 <p><strong>Editorial:</strong> ${manga.editorial}</p>
                 <div class="botones-container">
                     <a href="${manga.enlace}" target="_blank" class="enlace-btn">Terabox</a>
-                    <button class="ver-descripcion" data-titulo="${manga.titulo}">Ver Descripción</button>
+                    <button class="ver-descripcion" data-titulo="${manga.titulo}">Ver argumento</button>
                 </div>
             </div>
         `;
