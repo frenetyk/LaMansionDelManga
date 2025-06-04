@@ -1,5 +1,51 @@
 [
-    
+        {
+        "titulo": "¡YaWaRa!",
+        "demografia": "Spokon",
+        "descripcion":"Yawara Inokuma es una talentosa judoka que ha sido entrenada desde muy pequeña por su abuelo Jigorô, campeón mundial de judo. Su abuelo confía plenamente en sus capacidades y pretende convertirla en medalla de oro en los Juegos Olímpicos de Seúl de 1988. Sin embargo, Yawara lo único que quiere es tener una vida normal y corriente como sus amigas, alejada de entrenos y competiciones… Todo cambia cuando la descubre un periodista llamado Matsuda y la presenta al mundo como la nueva promesa del judo en Japón.",
+        "guionista": "Naoki Urasawa",
+        "dibujante": "Naoki Urasawa",
+        "volumenes": "5 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1wTSsmIFSl-Xk0v3Uk4Lz9g",
+        "imagen": "imagenes/k.jpg",
+        "imagenes":[
+            "imagenes/yawara/yawara1.webp",
+            "imagenes/yawara/yawara2.webp",
+            "imagenes/yawara/yawara3.webp",
+            "imagenes/yawara/yawara4.webp",
+            "imagenes/yawara/yawara5.webp",
+            "imagenes/yawara/yawara6.webp",
+            "imagenes/yawara/yawara7.webp"
+        ]
+    },
+    {
+        "titulo": "¡Yotsuba!",
+        "demografia": "Shonen",
+        "descripcion":"¿Quieres conocer a la chica más traviesa de Japón? Acompaña a Yotsuba a su nuevo barrio, y sigue sus vivencias mientras va de compras, caza cigarras, juega bajo la tormenta e intenta evitar el calentamiento de la Tierra. Diviértete con Yotsuba, el nuevo cómic del creador de Azumanga Daioh.",
+        "guionista": "Kiyohiko Azuma",
+        "dibujante": "Kiyohiko Azuma",
+        "volumenes": "1 (abierta)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1OI5taOk9oMqa2nYwzy3H5Q",
+        "imagenes":[
+            "imagenes/yotsuba/yotsuba1.webp",
+            "imagenes/yotsuba/yotsuba2.webp",
+            "imagenes/yotsuba/yotsuba3.webp",
+            "imagenes/yotsuba/yotsuba4.webp",
+            "imagenes/yotsuba/yotsuba5.webp",
+            "imagenes/yotsuba/yotsuba6.webp",
+            "imagenes/yotsuba/yotsuba7.webp",
+            "imagenes/yotsuba/yotsuba8.webp",
+            "imagenes/yotsuba/yotsuba9.webp",
+            "imagenes/yotsuba/yotsuba10.webp",
+            "imagenes/yotsuba/yotsuba11.webp",
+            "imagenes/yotsuba/yotsuba12.webp",
+            "imagenes/yotsuba/yotsuba13.webp",
+            "imagenes/yotsuba/yotsuba14.webp",
+            "imagenes/yotsuba/yotsuba15.webp"
+        ]
+    },
     {
         "titulo": "#DRCL midnight children",
         "demografia": "Seinen",
@@ -2539,6 +2585,54 @@
             "imagenes/rankingofkings/rakingofkings17.webp"
         ]
     },
+        {
+        "titulo": "Rave",
+        "demografia": "Shonen",
+        "descripcion":"¡Empieza una de las aventuras más épicas de todos los tiempos! Para Haru y Plue, su empeño de destruir a Dark Bring va a ser una gran aventura … y hay que salvar el mundo,claro. Haru ha emprendido un viaje para reparar la espada de los 10 poderes. Debe encontrar a un famoso herrero llamado Música para poder a Rave a máxima potencia. Sólo así podrá enfrentarse a los sicarios de alto nivel que sirven a la piedra maligna Dark Bring.",
+        "guionista": "Hiro Mashima",
+        "dibujante": "Hiro Mashima",
+        "volumenes": "35 (completo)",
+        "editorial": "Norma Editorial",
+        "enlace": "https://1024terabox.com/s/1J3XuaCcSM-ehVR-tbHvdOQ",
+        "imagen": "imagenes/k.jpg",
+        "imagenes":[
+            "imagenes/rave/rave1.webp",
+            "imagenes/rave/rave2.webp",
+            "imagenes/rave/rave3.webp",
+            "imagenes/rave/rave4.webp",
+            "imagenes/rave/rave5.webp",
+            "imagenes/rave/rave6.webp",
+            "imagenes/rave/rave7.webp",
+            "imagenes/rave/rave8.webp",
+            "imagenes/rave/rave9.webp",
+            "imagenes/rave/rave10.webp",
+            "imagenes/rave/rave11.webp",
+            "imagenes/rave/rave12.webp",
+            "imagenes/rave/rave13.webp",
+            "imagenes/rave/rave14.webp",
+            "imagenes/rave/rave15.webp",
+            "imagenes/rave/rave16.webp",
+            "imagenes/rave/rave17.webp",
+            "imagenes/rave/rave18.webp",
+            "imagenes/rave/rave19.webp",
+            "imagenes/rave/rave20.webp",
+            "imagenes/rave/rave21.webp",
+            "imagenes/rave/rave22.webp",
+            "imagenes/rave/rave23.webp",
+            "imagenes/rave/rave24.webp",
+            "imagenes/rave/rave25.webp",
+            "imagenes/rave/rave26.webp",
+            "imagenes/rave/rave27.webp",
+            "imagenes/rave/rave28.webp",
+            "imagenes/rave/rave29.webp",
+            "imagenes/rave/rave30.webp",
+            "imagenes/rave/rave31.webp",
+            "imagenes/rave/rave32.webp",
+            "imagenes/rave/rave33.webp",
+            "imagenes/rave/rave34.webp",
+            "imagenes/rave/rave35.webp"
+        ]
+    },
     {
         "titulo": "Re Cervin",
         "demografia": "Seinen",
@@ -3061,6 +3155,25 @@
             "imagenes/vagabond/vagabond35.webp",
             "imagenes/vagabond/vagabond36.webp",
             "imagenes/vagabond/vagabond37.webp"
+        ]
+    },
+        {
+        "titulo": "Video Girl AI",
+        "demografia": "Shonen",
+        "descripcion":"",
+        "guionista": "Masakazu Katsura",
+        "dibujante": "Masakazu Katsura",
+        "volumenes": "2 (abierta)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1VVRj9dBIVwoWOyHMCC8EcQ",
+        "imagen": "imagenes/k.jpg",
+        "imagenes":[
+            "imagenes/videogirlai/videogirlai1.webp",
+            "imagenes/videogirlai/videogirlai2.webp",
+            "imagenes/videogirlai/videogirlai1.webp",
+            "imagenes/videogirlai/videogirlai4.webp",
+            "imagenes/videogirlai/videogirlai5.webp",
+            "imagenes/videogirlai/videogirlai6.webp"
         ]
     },
     {
