@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const matchesDemo = demografia ? manga.demografia === demografia : true;
             const matchesEditorial = editorial ? manga.editorial === editorial : true;
             const matchesEstado = estado ?
-                (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('cerrada')) :
+                (estado === 'abierta' ? manga.volumenes.includes('abierta') : manga.volumenes.includes('completa')) :
                 true;
 
             return matchesSearch && matchesDemo && matchesEditorial && matchesEstado;
