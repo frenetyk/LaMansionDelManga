@@ -82,11 +82,15 @@ input, select {
 }
 
 .manga-card img {
-    width: 100%;          /* Ancho flexible */
-    height: 260px;        /* Altura fija */
-    object-fit: contain;  /* Muestra toda la imagen sin recortar */
-    background: #ffffff;  /* Fondo para relleno (opcional) */
-    
+    width: auto;
+    max-width: 100%;
+    height: 260px;
+    border: 2px solid var(--primary);
+    border-radius: 8px;
+    box-sizing: border-box;
+    background-color: var(--light);
+    display: block;
+    margin: 0 auto; /* Centra la imagen horizontalmente */
 }
 
 h1 {
