@@ -922,7 +922,51 @@
             "imagenes/elnuevolobosolitarioysucachorro/elnuevolobosolitarioysucachorro11.webp"
         ]
     },
-        {
+    {
+        "titulo": "El Puño de la Estrella del Norte (Ultimate Edition)",
+        "demografia": "Shonen",
+        "descripcion":"Después de la Tercera Guerra Mundial, el mundo es un lugar desolado y hostil. El agua se ha convertido en el recurso más preciado y la fuerza, en la habilidad más necesaria, por eso los más fuertes dominan el mundo. Esto cambiará cuando el hombre conocido como «el puño de la Estrella Del Norte», heredero del arte marcial más poderosa jamás conocida, ayude a los indefensos pobladores a conseguir una vida más digna.",
+        "guionista": "Buronson",
+        "dibujante": "Tetsuo Hara",
+        "volumenes": "18 (completa)",
+        "editorial": "Planeta Cómic",
+        "enlace": "https://1024terabox.com/s/1k3321PyVrlterKDSHhJNLQ",
+        "imagenes":[
+            "imagenes/elpunodelaestrella/elpunodelaestrella1.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella2.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella3.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella4.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella5.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella6.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella7.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella8.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella9.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella10.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella11.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella12.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella13.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella14.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella15.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella16.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella17.webp",
+            "imagenes/elpunodelaestrella/elpunodelaestrella18.webp"
+        ]
+    },
+    {
+        "titulo": "Elegía Roja",
+        "demografia": "Seinen",
+        "descripcion":"¡Quiero dibujar manga! El sueño del joven Ichiro es la aguja que borda el trazo de su atribulada existencia en la telaraña de las emociones vitales. Estar dispuesto a sacrificar la vida entera en la consecución de un objetivo conlleva, en ocasiones, el pago del inexorable tributo de la soledad, e Ichiro asume el riesgo. El romanticismo que destila la relación con su novia, Sachiko, en medio de una vida en precario, brilla en el oscuro firmamento de la desesperación con un destello fugaz, pero grabará en nuestro recuerdo su inusitada belleza.",
+        "guionista": "Seiichi Hayashi",
+        "dibujante": "Seiichi Hayashi",
+        "volumenes": "1 (completa)",
+        "editorial": "Ponent Mon",
+        "enlace": "https://1024terabox.com/s/1ETjtwBswDcCko8MtYESzPg",
+        "imagen": "imagenes/elegiaroja.jpg",
+        "imagenes":[
+            "imagenes/tomosunicos/elegiaroja.webp"
+        ]
+    },
+    {
         "titulo": "Espíritus del Inframundo",
         "demografia": "Shonen",
         "descripcion":"Yuru es un joven que lleva una vida tranquila en una pequeña aldea en las profundidades de la montaña, cazando aves salvajes y disfrutando de la naturaleza. Sin embargo, por alguna razón, su hermana gemela Asa permanece encerrada en una cárcel del pueblo donde dicen que está cumpliendo con su cometido, aunque en realidad parece como si estuviera cautiva...",
@@ -940,20 +984,6 @@
             "imagenes/espiritusdelinframundo/espiritusdelinframundo6.webp",
             "imagenes/espiritusdelinframundo/espiritusdelinframundo7.webp",
             "imagenes/espiritusdelinframundo/espiritusdelinframundo8.webp"
-        ]
-    },
-    {
-        "titulo": "Elegía Roja",
-        "demografia": "Seinen",
-        "descripcion":"¡Quiero dibujar manga! El sueño del joven Ichiro es la aguja que borda el trazo de su atribulada existencia en la telaraña de las emociones vitales. Estar dispuesto a sacrificar la vida entera en la consecución de un objetivo conlleva, en ocasiones, el pago del inexorable tributo de la soledad, e Ichiro asume el riesgo. El romanticismo que destila la relación con su novia, Sachiko, en medio de una vida en precario, brilla en el oscuro firmamento de la desesperación con un destello fugaz, pero grabará en nuestro recuerdo su inusitada belleza.",
-        "guionista": "Seiichi Hayashi",
-        "dibujante": "Seiichi Hayashi",
-        "volumenes": "1 (completa)",
-        "editorial": "Ponent Mon",
-        "enlace": "https://1024terabox.com/s/1ETjtwBswDcCko8MtYESzPg",
-        "imagen": "imagenes/elegiaroja.jpg",
-        "imagenes":[
-            "imagenes/tomosunicos/elegiaroja.webp"
         ]
     },
     {
